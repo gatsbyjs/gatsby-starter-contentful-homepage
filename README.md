@@ -1,18 +1,12 @@
+<a href="https://www.gatsbyjs.com">
+  <img alt="Gatsby" src="https://www.gatsbyjs.com/Gatsby-Monogram.svg" width="60" />
+</a>
 
-<p align="center">
-  <a href="https://www.gatsbyjs.com">
-    <img alt="Gatsby" src="https://www.gatsbyjs.com/Gatsby-Monogram.svg" width="60" />
-  </a>
-</p>
-<h1 align="center">
-  Gatsby Starter Contentful Homepage
-</h1>
+# Gatsby Starter Contentful Homepage
 
 Create a homepage using Gatsby and Contentful. This starter demonstrates how to use Contentful to build a homepage and can be customized to match your own visual branding.
 
-[View the Demo][demo]
-
-[demo]: https://gatsbycontentfulhomepage.gatsbyjs.io/
+[View the Demo](https://gatsbycontentfulhomepage.gatsbyjs.io/)
 
 ## Quick start
 
@@ -24,45 +18,45 @@ You will need a new or existing [Contentful space][] to use this starter and wil
 
 1. **Create a Gatsby site**
 
-    Use the Gatsby CLI to get started locally:
+   Use the Gatsby CLI to get started locally:
 
-    ```sh
-    npx gatsby new my-homepage https://github.com/gatsbyjs/gatsby-starter-contentful-homepage
-    ```
+   ```sh name
+   npx gatsby new my-homepage https://github.com/gatsbyjs/gatsby-starter-contentful-homepage
+   ```
 
 1. **Run the Contentful setup command**
 
-    **TO BE IMPLEMENTED**
-    From your site's root directory, run:
+   **TO BE IMPLEMENTED**
+   From your site's root directory, run:
 
-    ```sh
-    cd my-homepage
-    yarn setup
-    ```
+   ```sh
+   cd my-homepage
+   yarn setup
+   ```
 
-    This will run a script to populate your Contentful space's content model and add demo content.
+   This will run a script to populate your Contentful content model and add demo content.
 
 1. **Start developing**
 
-    In your site directory, start the development server:
+   In your site directory, start the development server:
 
-    ```sh
-    yarn start
-    ```
+   ```sh
+   yarn start
+   ```
 
-    Your site should now be running at <http://localhost:8000>
+   Your site should now be running at <http://localhost:8000>
 
 1. **Open the source code and start editing**
 
-## Deployment
+## Deploy your site
 
-Once your content model and data are available in Contentful, deploy your site to [Gatsby Cloud](https://gatsbyjs.com/products/cloud):
+Once your content is available in Contentful, deploy your site to [Gatsby Cloud](https://gatsbyjs.com/products/cloud):
 
-[<img src="https://www.gatsbyjs.com/deploynow.png" alt="Deploy to Gatsby Cloud">](https://www.gatsbyjs.com/dashboard/deploynow?url=https://github.com/gatsbyjs/gatsby-starter-contentful-homepage)
+[![Deploy to Gatsby](https://www.gatsbyjs.com/deploynow.png "Deploy to Gatsby")](https://www.gatsbyjs.com/dashboard/deploynow?url=https://github.com/gatsbyjs/gatsby-starter-contentful-homepage)
 
 ## What's included?
 
-```
+```sh
 ├── README.md
 ├── gatsby-config.js
 ├── gatsby-node.js
@@ -89,7 +83,7 @@ Once your content model and data are available in Contentful, deploy your site t
 
 To update the colors used in this starter, edit the `src/colors.css.ts` file.
 
-```js
+```.ts
 // src/colors.css.ts
 export const colors = {
   background: "#ffe491",
@@ -99,6 +93,7 @@ export const colors = {
   active: "#001d3d",
   black: "#000",
 }
+
 ```
 
 If you'd like to add additional colors, add additional keys to this object.
@@ -131,127 +126,122 @@ For this example, we'll create a new "Banner" component.
 
 1. First, update your content model in Contentful
 
-    In your Contentful space, create a new content type and call it "Homepage Banner."
-    For this example, add two fields to your new content type: `heading` and `text` – these can be *Short text* types.
+   In your Contentful space, create a new content type and call it "Homepage Banner."
+   For this example, add two fields to your new content type: `heading` and `text` – these can be _Short text_ types.
 
-    Find the content type for *Homepage* in Contentful and edit the settings for the *Content* field. Under *Validation*, ensure that the new *Homepage Banner* type is checked to make it available as a content type on the Homepage.
+   Find the content type for _Homepage_ in Contentful and edit the settings for the _Content_ field. Under _Validation_, ensure that the new _Homepage Banner_ type is checked to make it available as a content type on the Homepage.
 
-    Navigate to the *Content* tab to edit the *Homepage* and add a section with this new *Homepage Banner* content type.
+   Navigate to the _Content_ tab to edit the _Homepage_ and add a section with this new _Homepage Banner_ content type.
 
 1. Update `gatsby-node.js`
 
-    Edit your site's `gatsby-node.js` file, adding an interface for `HomepageBanner` that matches your content model in Contentful.
-    This allows the homepage to query the abstract `HomepageBanner` type.
+   Edit your site's `gatsby-node.js` file, adding an interface for `HomepageBanner` that matches your content model in Contentful.
+   This allows the homepage to query the abstract `HomepageBanner` type.
 
-    ```js
-    // in gatsby-node.js
-    exports.createSchemaCustomization = async ({ actions }) => {
-      // ...
-      actions.createTypes(`
-        interface HomepageBanner implements Node & HomepageBlock {
-          id: ID!
-          blocktype: String
-          heading: String
-          text: String
-        }
-      `)
-      // ...
-      actions.createTypes(`
-        type ContentfulHomepageBanner implements Node & HomepageBanner & HomepageBlock @dontInfer {
-          id: ID!
-          blocktype: String @blocktype
-          heading: String
-          text: String
-        }
-      `)
-      // ...
-    }
-    ```
+   ```js
+   // in gatsby-node.js
+   exports.createSchemaCustomization = async ({ actions }) => {
+     // ...
+     actions.createTypes(`
+       interface HomepageBanner implements Node & HomepageBlock {
+         id: ID!
+         blocktype: String
+         heading: String
+         text: String
+       }
+     `)
+     // ...
+     actions.createTypes(`
+       type ContentfulHomepageBanner implements Node & HomepageBanner & HomepageBlock @dontInfer {
+         id: ID!
+         blocktype: String @blocktype
+         heading: String
+         text: String
+       }
+     `)
+     // ...
+   }
+   ```
 
 1. Next, create the Banner component:
 
-    ```jsx
-    // src/components/banner.js
-    import * as React from 'react'
-    import { graphql } from 'gatsby'
-    import {
-      Section,
-      Container,
-      Heading,
-      Text,
-    } from './ui'
+   ```jsx
+   // src/components/banner.js
+   import * as React from "react"
+   import { graphql } from "gatsby"
+   import { Section, Container, Heading, Text } from "./ui"
 
-    export default function Banner(props) {
-      return (
-        <Section>
-          <Container>
-            <Heading>{props.heading}</Heading>
-            <Text>{props.text}</Text>
-          </Container>
-        </Section>
-      )
-    }
+   export default function Banner(props) {
+     return (
+       <Section>
+         <Container>
+           <Heading>{props.heading}</Heading>
+           <Text>{props.text}</Text>
+         </Container>
+       </Section>
+     )
+   }
 
-    export const query = graphql`
-      fragment HomepageBannerContent on HomepageBanner {
-        id
-        heading
-        text
-      }
-    `
-    ```
+   export const query = graphql`
+     fragment HomepageBannerContent on HomepageBanner {
+       id
+       heading
+       text
+     }
+   `
+   ```
 
 1. Export the component from `src/components/sections.js`
 
-    ```js
-    // src/components/sections.js
-    export { default as HomepageHero } from "./hero"
-    export { default as HomepageFeature } from "./feature"
-    export { default as HomepageFeatureList } from "./feature-list"
-    export { default as HomepageLogoList } from "./logo-list"
-    export { default as HomepageBenefitList } from "./benefit-list"
-    export { default as HomepageTestimonialList } from "./testimonial-list"
-    export { default as HomepageStatList } from "./stat-list"
-    export { default as HomepageCta } from "./cta"
-    export { default as HomepageProductList } from "./product-list"
+   ```js
+   // src/components/sections.js
+   export { default as HomepageHero } from "./hero"
+   export { default as HomepageFeature } from "./feature"
+   export { default as HomepageFeatureList } from "./feature-list"
+   export { default as HomepageLogoList } from "./logo-list"
+   export { default as HomepageBenefitList } from "./benefit-list"
+   export { default as HomepageTestimonialList } from "./testimonial-list"
+   export { default as HomepageStatList } from "./stat-list"
+   export { default as HomepageCta } from "./cta"
+   export { default as HomepageProductList } from "./product-list"
 
-    // add export for new component
-    export { default as HomepageBanner } from "./banner"
-    ```
+   // add export for new component
+   export { default as HomepageBanner } from "./banner"
+   ```
 
 1. Add the GraphQL query fragment to the query in `src/pages/index.js`
 
-    ```js
-    // in src/pages/index.js
-    export const query = graphql`
-      {
-        homepage {
-          id
-          title
-          description
-          image {
-            id
-            url
-          }
-          blocks: content {
-            id
-            blocktype
-            ...HomepageHeroContent
-            ...HomepageFeatureContent
-            ...HomepageFeatureListContent
-            ...HomepageCtaContent
-            ...HomepageLogoListContent
-            ...HomepageTestimonialListContent
-            ...HomepageBenefitListContent
-            ...HomepageStatListContent
-            ...HomepageProductListContent
-            # New component fragment
-            ...HomepageBannerContent
-          }
-        }
-      }
-    `
-    ```
+   ```js
+   // in src/pages/index.js
+   export const query = graphql`
+     {
+       homepage {
+         id
+         title
+         description
+         image {
+           id
+           url
+         }
+         blocks: content {
+           id
+           blocktype
+           ...HomepageHeroContent
+           ...HomepageFeatureContent
+           ...HomepageFeatureListContent
+           ...HomepageCtaContent
+           ...HomepageLogoListContent
+           ...HomepageTestimonialListContent
+           ...HomepageBenefitListContent
+           ...HomepageStatListContent
+           ...HomepageProductListContent
+           # New component fragment
+           ...HomepageBannerContent
+         }
+       }
+     }
+   `
+   ```
 
 ## 🎓 Learning Gatsby
 
@@ -265,4 +255,3 @@ Looking for more guidance? Full documentation for Gatsby lives [on the website](
 [Build, Deploy, and Host On The Only Cloud Built For Gatsby](https://www.gatsbyjs.com/cloud/)
 
 Gatsby Cloud is an end-to-end cloud platform specifically built for the Gatsby framework that combines a modern developer experience with an optimized, global edge network.
-

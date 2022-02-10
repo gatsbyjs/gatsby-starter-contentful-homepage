@@ -1,7 +1,16 @@
 {
   "name": "gatsby-starter-contentful-homepage",
   "version": "1.0.0",
+  "scripts": {
+    "start": "gatsby develop",
+    "develop": "gatsby develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean"
+  },
   "dependencies": {
+    "@contentful/rich-text-html-renderer": "^15.11.1",
+    "gatsby-plugin-manifest": "^4.6.0",
     "gatsby-plugin-react-helmet": "^5.5.0",
     "gatsby-source-contentful": "^7.2.0",
     "react-helmet": "^6.1.0",
@@ -20,12 +29,12 @@
     "react-feather": "^2.0.9",
     "sharp": "^0.29.3"
   },
-  "private": true,
-  "scripts": {
-    "start": "gatsby develop",
-    "develop": "gatsby develop",
-    "build": "gatsby build",
-    "serve": "gatsby serve",
-    "clean": "gatsby clean"
-  }
+  "devDependencies": {
+    "chalk": "4",
+    "contentful-cli": "^1.10.0",
+    "contentful-import": "^8.2.28",
+    "inquirer": "^8.2.0",
+    "yargs-parser": "^21.0.0"
+  },
+  "private": true
 }

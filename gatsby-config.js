@@ -9,7 +9,7 @@ module.exports = {
       options: {
         downloadLocal: true,
         spaceId: process.env.CONTENTFUL_SPACE_ID,
-        accessToken: process.env.CONTENTFUL_DELIVERY_ACCESS_TOKEN,
+        accessToken: process.env.CONTENTFUL_ACCESS_TOKEN,
       },
     },
     "gatsby-plugin-sharp",
@@ -17,5 +17,17 @@ module.exports = {
     "gatsby-transformer-sharp",
     "gatsby-plugin-react-helmet",
     "gatsby-plugin-vanilla-extract",
+    {
+      resolve: "gatsby-plugin-manifest",
+      options: {
+        name: "Gatsby Starter Contentful Homepage",
+        short_name: "Gatsby",
+        start_url: "/",
+        // These can be imported once ESM support lands
+        background_color: "#ffe491",
+        theme_color: "#004ca3",
+        icon: "src/favicon.png",
+      },
+    },
   ],
 }
