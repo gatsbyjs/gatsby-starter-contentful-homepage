@@ -24,9 +24,8 @@ You will need a new or existing [Contentful space][] to use this starter and wil
    npx gatsby new my-homepage https://github.com/gatsbyjs/gatsby-starter-contentful-homepage
    ```
 
-1. **Run the Contentful setup command**
+1. **Run the Contentful setup script**
 
-   **TO BE IMPLEMENTED**
    From your site's root directory, run:
 
    ```sh
@@ -34,7 +33,7 @@ You will need a new or existing [Contentful space][] to use this starter and wil
    yarn setup
    ```
 
-   This will run a script to populate your Contentful content model and add demo content.
+   This will run a script to populate your Contentful space's content model and add demo content.
 
 1. **Start developing**
 

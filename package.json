@@ -6,7 +6,9 @@
     "develop": "gatsby develop",
     "build": "gatsby build",
     "serve": "gatsby serve",
-    "clean": "gatsby clean"
+    "clean": "gatsby clean",
+    "setup": "node ./scripts/setup.js",
+    "export-content": "contentful space export --space-id=$SPACE_ID --management-token=$MANAGEMENT_TOKEN --export-dir=scripts --content-file=data.json"
   },
   "dependencies": {
     "@contentful/rich-text-html-renderer": "^15.11.1",
