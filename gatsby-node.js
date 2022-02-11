@@ -43,7 +43,7 @@ exports.createSchemaCustomization = async ({ actions }) => {
   })
 
   // abstract interfaces
-  actions.createTypes(`
+  actions.createTypes(/* GraphQL */ `
     interface HomepageBlock implements Node {
       id: ID!
       blocktype: String
@@ -440,8 +440,9 @@ exports.createSchemaCustomization = async ({ actions }) => {
   `)
 
   // CMS specific types for About page
-  actions.createTypes(`
-    type ContentfulAboutHero implements Node & AboutHero & HomepageBlock @dontInfer {
+  actions.createTypes(/* GraphQL */ `
+    type ContentfulAboutHero implements Node & AboutHero & HomepageBlock
+      @dontInfer {
       id: ID!
       blocktype: String @blocktype
       heading: String
@@ -455,7 +456,8 @@ exports.createSchemaCustomization = async ({ actions }) => {
       label: String
     }
 
-    type ContentfulAboutStatList implements Node & AboutStatList & HomepageBlock @dontInfer {
+    type ContentfulAboutStatList implements Node & AboutStatList & HomepageBlock
+      @dontInfer {
       id: ID!
       blocktype: String @blocktype
       content: [AboutStat] @link(from: "content___NODE")
@@ -468,7 +470,8 @@ exports.createSchemaCustomization = async ({ actions }) => {
       title: String
     }
 
-    type ContentfulAboutLeadership implements Node & AboutLeadership & HomepageBlock @dontInfer {
+    type ContentfulAboutLeadership implements Node & AboutLeadership & HomepageBlock
+      @dontInfer {
       id: ID!
       blocktype: String @blocktype
       kicker: String
@@ -477,7 +480,8 @@ exports.createSchemaCustomization = async ({ actions }) => {
       content: [AboutProfile] @link(from: "content___NODE")
     }
 
-    type ContentfulAboutLogoList implements Node & AboutLogoList & HomepageBlock @dontInfer {
+    type ContentfulAboutLogoList implements Node & AboutLogoList & HomepageBlock
+      @dontInfer {
       id: ID!
       blocktype: String @blocktype
       heading: String
