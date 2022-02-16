@@ -272,7 +272,7 @@ exports.createSchemaCustomization = async ({ actions }) => {
       id: ID!
       image: HomepageImage
       name: String
-      title: String
+      jobTitle: String
     }
 
     interface AboutLeadership implements Node & HomepageBlock {
@@ -495,7 +495,7 @@ exports.createSchemaCustomization = async ({ actions }) => {
       id: ID!
       image: HomepageImage @link(from: "image___NODE")
       name: String
-      title: String
+      jobTitle: String
     }
 
     type ContentfulAboutLeadership implements Node & AboutLeadership & HomepageBlock
