@@ -23,8 +23,6 @@ console.log(`
 
   Ready? Let's do it! 🎉
 `)
-// The ${chalk.green("Content Preview API Token")}
-// will be used to show not published data in your development environment.
 
 const questions = [
   {
@@ -49,22 +47,6 @@ const questions = [
       !process.env.CONTENTFUL_DELIVERY_ACCESS_TOKEN,
     message: "Your Content Delivery API access token",
   },
-  /* TODO: add support for preview in gatsby-config.js
-  {
-    name: "usePreview",
-    type: "confirm",
-    when: !argv.previewToken && !process.env.CONTENTFUL_PREVIEW_ACCESS_TOKEN,
-    message: "Do you want to enable Contentful Preview?",
-  },
-  {
-    name: "previewToken",
-    when: (answers) =>
-      !argv.previewToken &&
-      !process.env.CONTENTFUL_PREVIEW_ACCESS_TOKEN &&
-      answers.usePreview,
-    message: "Your Content Preview API access token",
-  },
-  */
 ]
 
 inquirer
@@ -80,7 +62,6 @@ inquirer
         CONTENTFUL_SPACE_ID,
         CONTENTFUL_ACCESS_TOKEN,
         CONTENTFUL_DELIVERY_ACCESS_TOKEN,
-        // CONTENTFUL_PREVIEW_ACCESS_TOKEN,
       } = process.env
 
       // env vars are given precedence followed by args provided to the setup
@@ -99,8 +80,6 @@ inquirer
         argv.deliveryToken ||
         accessToken
 
-      // previewToken = CONTENTFUL_PREVIEW_ACCESS_TOKEN || argv.previewToken || previewToken;
-
       console.log("Writing config file...")
       const configFiles = [`.env.development`, `.env.production`].map((file) =>
         path.join(__dirname, "..", file)
@@ -112,7 +91,6 @@ inquirer
         `# Do NOT commit this file to source control`,
         `CONTENTFUL_SPACE_ID='${spaceId}'`,
         `CONTENTFUL_ACCESS_TOKEN='${accessToken}'`,
-        // !!previewToken && `CONTENTFUL_PREVIEW_ACCESS_TOKEN='${previewToken}'`,
       ]
         .filter(Boolean)
         .join("\n")
@@ -122,12 +100,10 @@ inquirer
         console.log(`Config file ${chalk.yellow(file)} written`)
       })
 
-      // if (previewToken) {
-      //   fs.appendFileSync(
-      //     `.env.development`,
-      //     `\nCONTENTFUL_HOST='preview.contentful.com'`
-      //   );
-      // }
+      fs.appendFileSync(
+        ".env.development",
+        '\n# To enable previews locally, uncomment the next line:\n# CONTENTFUL_HOST="preview.contentful.com"'
+      )
 
       return { spaceId, managementToken }
     }
