@@ -55,6 +55,20 @@ exports.createSchemaCustomization = async ({ actions }) => {
       text: String
     }
 
+    interface NavItem implements Node {
+      id: ID!
+      href: String
+      text: String
+      icon: HomepageImage
+      description: String
+    }
+
+    interface NavItemGroup implements Node {
+      id: ID!
+      name: String
+      navItems: [NavItem]
+    }
+
     interface HomepageImage implements Node {
       id: ID!
       alt: String
@@ -191,7 +205,7 @@ exports.createSchemaCustomization = async ({ actions }) => {
 
     interface LayoutHeader implements Node {
       id: ID!
-      links: [HomepageLink]
+      navItems: [HeaderNavItem]
       cta: HomepageLink
     }
 
@@ -294,6 +308,20 @@ exports.createSchemaCustomization = async ({ actions }) => {
       id: ID!
       href: String
       text: String
+    }
+
+    type ContentfulNavItem implements Node & NavItem @dontInfer {
+      id: ID!
+      href: String
+      text: String
+      icon: HomepageImage @link(from: "icon___NODE")
+      description: String
+    }
+
+    type ContentfulNavItemGroup implements Node & NavItemGroup @dontInfer {
+      id: ID!
+      name: String
+      navItems: [NavItem] @link(from: "navItems___NODE")
     }
 
     type ContentfulAsset implements Node & HomepageImage {
@@ -499,10 +527,12 @@ exports.createSchemaCustomization = async ({ actions }) => {
   `)
 
   // Layout types
-  actions.createTypes(`
+  actions.createTypes(/* GraphQL */ `
+    union HeaderNavItem = ContentfulNavItem | ContentfulNavItemGroup
+
     type ContentfulLayoutHeader implements Node & LayoutHeader @dontInfer {
       id: ID!
-      links: [HomepageLink] @link(from: "links___NODE")
+      navItems: [HeaderNavItem] @link(from: "navItems___NODE")
       cta: HomepageLink @link(from: "cta___NODE")
     }
 
@@ -528,7 +558,7 @@ exports.createSchemaCustomization = async ({ actions }) => {
   `)
 
   // Page types
-  actions.createTypes(`
+  actions.createTypes(/* GraphQL */ `
     type ContentfulPage implements Node & Page {
       id: ID!
       slug: String!
