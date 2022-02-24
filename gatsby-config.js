@@ -5,6 +5,12 @@ require("dotenv").config({
 })
 
 module.exports = {
+  siteMetadata: {
+    siteUrl: "https://gatsbycontentfulhomepage.gatsbyjs.io/",
+    title: "Gatsby Contentful Homepage Starter",
+    author: `Gatsby`,
+    description: "A Gatsby Starter for building homepages with Contentful",
+  },
   plugins: [
     {
       resolve: "gatsby-source-contentful",
