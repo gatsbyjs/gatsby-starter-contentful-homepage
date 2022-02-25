@@ -29,6 +29,28 @@ exports.createSchemaCustomization = async ({ actions }) => {
   })
 
   actions.createFieldExtension({
+    name: "navItemType",
+    args: {
+      name: {
+        type: "String!",
+        defaultValue: "Link",
+      },
+    },
+    extend(options) {
+      return {
+        resolve() {
+          switch (options.name) {
+            case "Group":
+              return "Group"
+            default:
+              return "Link"
+          }
+        },
+      }
+    },
+  })
+
+  actions.createFieldExtension({
     name: "richText",
     extend(options) {
       return {
@@ -55,16 +77,23 @@ exports.createSchemaCustomization = async ({ actions }) => {
       text: String
     }
 
-    interface NavItem implements Node {
+    interface HeaderNavItem implements Node {
       id: ID!
+      navItemType: String
+    }
+
+    interface NavItem implements Node & HeaderNavItem {
+      id: ID!
+      navItemType: String
       href: String
       text: String
       icon: HomepageImage
       description: String
     }
 
-    interface NavItemGroup implements Node {
+    interface NavItemGroup implements Node & HeaderNavItem {
       id: ID!
+      navItemType: String
       name: String
       navItems: [NavItem]
     }
@@ -310,16 +339,20 @@ exports.createSchemaCustomization = async ({ actions }) => {
       text: String
     }
 
-    type ContentfulNavItem implements Node & NavItem @dontInfer {
+    type ContentfulNavItem implements Node & NavItem & HeaderNavItem
+      @dontInfer {
       id: ID!
+      navItemType: String @navItemType(name: "Link")
       href: String
       text: String
       icon: HomepageImage @link(from: "icon___NODE")
       description: String
     }
 
-    type ContentfulNavItemGroup implements Node & NavItemGroup @dontInfer {
+    type ContentfulNavItemGroup implements Node & NavItemGroup & HeaderNavItem
+      @dontInfer {
       id: ID!
+      navItemType: String @navItemType(name: "Group")
       name: String
       navItems: [NavItem] @link(from: "navItems___NODE")
     }
@@ -528,8 +561,6 @@ exports.createSchemaCustomization = async ({ actions }) => {
 
   // Layout types
   actions.createTypes(/* GraphQL */ `
-    union HeaderNavItem = ContentfulNavItem | ContentfulNavItemGroup
-
     type ContentfulLayoutHeader implements Node & LayoutHeader @dontInfer {
       id: ID!
       navItems: [HeaderNavItem] @link(from: "navItems___NODE")
