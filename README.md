@@ -14,8 +14,8 @@ You will need a new or existing [Contentful space][] to use this starter and wil
 
 [contentful space]: https://www.contentful.com/help/contentful-101/#step-2-create-a-space
 [space id]: https://www.contentful.com/help/find-space-id/
-[content management api key]: https://www.contentful.com/developers/docs/references/authentication/#the-content-management-api
 [content delivery api key]: https://www.contentful.com/developers/docs/references/authentication/#api-keys-in-the-contentful-web-app
+[content management api key]: https://www.contentful.com/developers/docs/references/authentication/#the-content-management-api
 
 1. **Create a Gatsby site**
 
