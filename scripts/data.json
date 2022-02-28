@@ -8467,7 +8467,7 @@
         "id": "2qKKtPQgqbAOKH34uLew1Z",
         "type": "Entry",
         "createdAt": "2022-01-11T17:59:08.802Z",
-        "updatedAt": "2022-02-02T15:55:49.906Z",
+        "updatedAt": "2022-02-25T19:05:13.355Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -8475,8 +8475,8 @@
             "linkType": "Environment"
           }
         },
-        "publishedVersion": 4,
-        "publishedAt": "2022-02-02T15:55:49.906Z",
+        "publishedVersion": 6,
+        "publishedAt": "2022-02-25T19:05:13.355Z",
         "firstPublishedAt": "2022-01-11T17:59:22.548Z",
         "createdBy": {
           "sys": {
@@ -8492,8 +8492,8 @@
             "id": "4SDtqAl8Y6iEC5454bbsbU"
           }
         },
-        "publishedCounter": 2,
-        "version": 5,
+        "publishedCounter": 3,
+        "version": 7,
         "publishedBy": {
           "sys": {
             "type": "Link",
@@ -8514,7 +8514,7 @@
           "en-US": "Blog"
         },
         "href": {
-          "en-US": "/blog"
+          "en-US": "#!"
         }
       }
     },
@@ -17580,7 +17580,7 @@
         "id": "Z6dzqiQEsl9eJwRzWEsMU",
         "type": "Entry",
         "createdAt": "2022-02-10T17:54:43.474Z",
-        "updatedAt": "2022-02-10T17:54:53.296Z",
+        "updatedAt": "2022-02-25T19:05:06.233Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -17588,8 +17588,8 @@
             "linkType": "Environment"
           }
         },
-        "publishedVersion": 2,
-        "publishedAt": "2022-02-10T17:54:53.296Z",
+        "publishedVersion": 4,
+        "publishedAt": "2022-02-25T19:05:06.233Z",
         "firstPublishedAt": "2022-02-10T17:54:53.296Z",
         "createdBy": {
           "sys": {
@@ -17605,8 +17605,8 @@
             "id": "4SDtqAl8Y6iEC5454bbsbU"
           }
         },
-        "publishedCounter": 1,
-        "version": 3,
+        "publishedCounter": 2,
+        "version": 5,
         "publishedBy": {
           "sys": {
             "type": "Link",
@@ -17627,7 +17627,7 @@
           "en-US": "Blog"
         },
         "href": {
-          "en-US": "/blog"
+          "en-US": "#!"
         }
       }
     },

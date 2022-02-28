@@ -52,6 +52,22 @@ You will need a new or existing [Contentful space][] to use this starter and wil
 
 Once your content is available in Contentful, deploy your site to [Gatsby Cloud](https://gatsbyjs.com/products/cloud):
 
+1. Push your local site to a new repo in either GitHub, GitLab, or Bitbucket
+1. Log into your [Gatsby Cloud Dashboard][] and click on **Add a site**
+1. Use the **Import from a Git repository** option to find your site
+1. Add the environment variables from your `.env.production` file to Gatsby Cloud during setup
+1. Click **Build site** and your site should start building
+
+For a more detailed walkthrough, see the tutorial on how to [build your site with Gatsby Cloud][tutorial].
+
+[gatsby cloud dashboard]: https://gatsbyjs.com/dashboard
+[tutorial]: https://www.gatsbyjs.com/docs/tutorial/part-1/#build-your-site-with-gatsby-cloud
+
+### Deploy without using the CLI
+
+Alternatively, you can deploy this starter directly to Gatsby Cloud.
+Note that you will need to set up your content in Contentful manually.
+
 [![Deploy to Gatsby](https://www.gatsbyjs.com/deploynow.png "Deploy to Gatsby")](https://www.gatsbyjs.com/dashboard/deploynow?url=https://github.com/gatsbyjs/gatsby-starter-contentful-homepage)
 
 ## Setting up Gatsby Cloud Preview
@@ -95,11 +111,11 @@ To update the colors used in this starter, edit the `src/colors.css.ts` file.
 ```.ts
 // src/colors.css.ts
 export const colors = {
-  background: "#ffe491",
-  text: "#004ca3",
-  primary: "#004ca3",
-  muted: "#f2d98a",
-  active: "#001d3d",
+  background: "#ffd500",
+  text: "#005bbb",
+  primary: "#005bbb",
+  muted: "#f5cc00",
+  active: "#004287",
   black: "#000",
 }
 
