@@ -6255,7 +6255,7 @@
         "id": "1zzRbzEpxqUFmclOIbcipZ",
         "type": "Entry",
         "createdAt": "2022-01-06T20:45:34.599Z",
-        "updatedAt": "2022-01-19T21:14:53.433Z",
+        "updatedAt": "2022-02-28T16:41:19.413Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -6263,8 +6263,8 @@
             "linkType": "Environment"
           }
         },
-        "publishedVersion": 39,
-        "publishedAt": "2022-01-19T21:14:53.433Z",
+        "publishedVersion": 41,
+        "publishedAt": "2022-02-28T16:41:19.413Z",
         "firstPublishedAt": "2022-01-06T20:47:05.185Z",
         "createdBy": {
           "sys": {
@@ -6280,8 +6280,8 @@
             "id": "4SDtqAl8Y6iEC5454bbsbU"
           }
         },
-        "publishedCounter": 11,
-        "version": 40,
+        "publishedCounter": 12,
+        "version": 42,
         "publishedBy": {
           "sys": {
             "type": "Link",
@@ -6302,7 +6302,7 @@
           "en-US": "Gatsby Contentful Homepage Starter"
         },
         "description": {
-          "en-US": "A Gatsby Starter for building homepages with Contentful"
+          "en-US": "A Gatsby Starter for building a homepage with Contentful"
         },
         "image": {
           "en-US": {
@@ -6486,7 +6486,7 @@
         "id": "2r9gR9MTF4AIyyr6RE7Ou1",
         "type": "Entry",
         "createdAt": "2022-01-06T20:50:45.907Z",
-        "updatedAt": "2022-01-06T20:51:27.045Z",
+        "updatedAt": "2022-02-28T21:43:47.424Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -6494,8 +6494,8 @@
             "linkType": "Environment"
           }
         },
-        "publishedVersion": 2,
-        "publishedAt": "2022-01-06T20:51:27.045Z",
+        "publishedVersion": 4,
+        "publishedAt": "2022-02-28T21:43:47.424Z",
         "firstPublishedAt": "2022-01-06T20:51:27.045Z",
         "createdBy": {
           "sys": {
@@ -6511,8 +6511,8 @@
             "id": "4SDtqAl8Y6iEC5454bbsbU"
           }
         },
-        "publishedCounter": 1,
-        "version": 3,
+        "publishedCounter": 2,
+        "version": 5,
         "publishedBy": {
           "sys": {
             "type": "Link",
@@ -6533,7 +6533,7 @@
           "en-US": "Deploy Now"
         },
         "href": {
-          "en-US": "#!"
+          "en-US": "https://github.com/gatsbyjs/gatsby-starter-contentful-homepage#deploy-your-site"
         }
       }
     },
@@ -6552,7 +6552,7 @@
         "id": "4eLpBsaJRRAjQlEFp9dfn0",
         "type": "Entry",
         "createdAt": "2022-01-06T20:51:33.568Z",
-        "updatedAt": "2022-01-06T20:51:45.463Z",
+        "updatedAt": "2022-02-28T21:48:38.538Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -6560,8 +6560,8 @@
             "linkType": "Environment"
           }
         },
-        "publishedVersion": 3,
-        "publishedAt": "2022-01-06T20:51:45.463Z",
+        "publishedVersion": 5,
+        "publishedAt": "2022-02-28T21:48:38.538Z",
         "firstPublishedAt": "2022-01-06T20:51:45.463Z",
         "createdBy": {
           "sys": {
@@ -6577,8 +6577,8 @@
             "id": "4SDtqAl8Y6iEC5454bbsbU"
           }
         },
-        "publishedCounter": 1,
-        "version": 4,
+        "publishedCounter": 2,
+        "version": 6,
         "publishedBy": {
           "sys": {
             "type": "Link",
@@ -6599,7 +6599,7 @@
           "en-US": "GitHub"
         },
         "href": {
-          "en-US": "https://github.com/gatsbyjs"
+          "en-US": "https://github.com/gatsbyjs/gatsby-starter-contentful-homepage"
         }
       }
     },
@@ -6618,7 +6618,7 @@
         "id": "220UmuLNpvn1INx2lIsZf9",
         "type": "Entry",
         "createdAt": "2022-01-06T20:52:27.123Z",
-        "updatedAt": "2022-01-11T18:37:55.353Z",
+        "updatedAt": "2022-02-28T16:53:18.031Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -6626,8 +6626,8 @@
             "linkType": "Environment"
           }
         },
-        "publishedVersion": 9,
-        "publishedAt": "2022-01-11T18:37:55.353Z",
+        "publishedVersion": 12,
+        "publishedAt": "2022-02-28T16:53:18.031Z",
         "firstPublishedAt": "2022-01-06T20:53:48.606Z",
         "createdBy": {
           "sys": {
@@ -6643,8 +6643,8 @@
             "id": "4SDtqAl8Y6iEC5454bbsbU"
           }
         },
-        "publishedCounter": 2,
-        "version": 10,
+        "publishedCounter": 3,
+        "version": 13,
         "publishedBy": {
           "sys": {
             "type": "Link",
@@ -6963,7 +6963,7 @@
         "id": "4MwM1Tj0WO5GmlVt46Lvn9",
         "type": "Entry",
         "createdAt": "2022-01-10T14:51:56.097Z",
-        "updatedAt": "2022-02-22T01:46:50.741Z",
+        "updatedAt": "2022-03-01T23:22:23.716Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -6971,8 +6971,8 @@
             "linkType": "Environment"
           }
         },
-        "publishedVersion": 15,
-        "publishedAt": "2022-02-22T01:46:50.741Z",
+        "publishedVersion": 17,
+        "publishedAt": "2022-03-01T23:22:23.716Z",
         "firstPublishedAt": "2022-01-10T14:52:31.703Z",
         "createdBy": {
           "sys": {
@@ -6988,8 +6988,8 @@
             "id": "4SDtqAl8Y6iEC5454bbsbU"
           }
         },
-        "publishedCounter": 4,
-        "version": 16,
+        "publishedCounter": 5,
+        "version": 18,
         "publishedBy": {
           "sys": {
             "type": "Link",
@@ -7011,7 +7011,7 @@
             "sys": {
               "type": "Link",
               "linkType": "Asset",
-              "id": "1hMYL4ThUzE3HOoBccrAOr"
+              "id": "37zIn7p0Ojc2rgyGaX3CI"
             }
           }
         },
@@ -7038,7 +7038,7 @@
         "id": "1CnTrUmN5ebFi779fuSdY3",
         "type": "Entry",
         "createdAt": "2022-01-10T14:52:43.294Z",
-        "updatedAt": "2022-02-22T01:46:59.234Z",
+        "updatedAt": "2022-03-01T23:22:04.530Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -7046,8 +7046,8 @@
             "linkType": "Environment"
           }
         },
-        "publishedVersion": 11,
-        "publishedAt": "2022-02-22T01:46:59.234Z",
+        "publishedVersion": 14,
+        "publishedAt": "2022-03-01T23:22:04.530Z",
         "firstPublishedAt": "2022-01-10T14:52:55.019Z",
         "createdBy": {
           "sys": {
@@ -7063,8 +7063,8 @@
             "id": "4SDtqAl8Y6iEC5454bbsbU"
           }
         },
-        "publishedCounter": 4,
-        "version": 12,
+        "publishedCounter": 5,
+        "version": 15,
         "publishedBy": {
           "sys": {
             "type": "Link",
@@ -7086,7 +7086,7 @@
             "sys": {
               "type": "Link",
               "linkType": "Asset",
-              "id": "7zaZlhlcchnVCDg86U39kr"
+              "id": "6DJgoaH1TSAoqCEwLd43mo"
             }
           }
         },
@@ -7469,7 +7469,7 @@
         "id": "5pO4xzQ5snL2qQAezQUZJE",
         "type": "Entry",
         "createdAt": "2022-01-10T14:59:13.214Z",
-        "updatedAt": "2022-01-19T21:09:23.597Z",
+        "updatedAt": "2022-03-01T23:20:30.722Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -7477,8 +7477,8 @@
             "linkType": "Environment"
           }
         },
-        "publishedVersion": 12,
-        "publishedAt": "2022-01-19T21:09:23.597Z",
+        "publishedVersion": 15,
+        "publishedAt": "2022-03-01T23:20:30.722Z",
         "firstPublishedAt": "2022-01-10T15:01:26.757Z",
         "createdBy": {
           "sys": {
@@ -7494,8 +7494,8 @@
             "id": "4SDtqAl8Y6iEC5454bbsbU"
           }
         },
-        "publishedCounter": 2,
-        "version": 13,
+        "publishedCounter": 3,
+        "version": 16,
         "publishedBy": {
           "sys": {
             "type": "Link",
@@ -7560,7 +7560,7 @@
             "sys": {
               "type": "Link",
               "linkType": "Asset",
-              "id": "1HICYZjLGX3we5MC3TD5uf"
+              "id": "2NeXSSCyiXaBh82qjHqZJe"
             }
           }
         },
@@ -7661,7 +7661,73 @@
         "id": "PUNOn4ew5JyYX0i2O18yH",
         "type": "Entry",
         "createdAt": "2022-01-10T14:59:34.534Z",
-        "updatedAt": "2022-02-22T01:25:13.973Z",
+        "updatedAt": "2022-03-01T23:25:36.687Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 6,
+        "publishedAt": "2022-03-01T23:25:36.687Z",
+        "firstPublishedAt": "2022-01-10T15:01:04.899Z",
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "4SDtqAl8Y6iEC5454bbsbU"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "4SDtqAl8Y6iEC5454bbsbU"
+          }
+        },
+        "publishedCounter": 3,
+        "version": 7,
+        "publishedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "4SDtqAl8Y6iEC5454bbsbU"
+          }
+        },
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "homepageStat"
+          }
+        }
+      },
+      "fields": {
+        "value": {
+          "en-US": "10k"
+        },
+        "label": {
+          "en-US": "Users"
+        }
+      }
+    },
+    {
+      "metadata": {
+        "tags": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "p39nycxzit31"
+          }
+        },
+        "id": "HkclkRliQlVk7CCHn9PvH",
+        "type": "Entry",
+        "createdAt": "2022-01-10T15:01:11.449Z",
+        "updatedAt": "2022-03-01T23:25:56.014Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -7670,8 +7736,8 @@
           }
         },
         "publishedVersion": 4,
-        "publishedAt": "2022-02-22T01:25:13.973Z",
-        "firstPublishedAt": "2022-01-10T15:01:04.899Z",
+        "publishedAt": "2022-03-01T23:25:56.014Z",
+        "firstPublishedAt": "2022-01-10T15:01:19.702Z",
         "createdBy": {
           "sys": {
             "type": "Link",
@@ -7705,76 +7771,10 @@
       },
       "fields": {
         "value": {
-          "en-US": "1.2M"
-        },
-        "label": {
-          "en-US": "Users"
-        }
-      }
-    },
-    {
-      "metadata": {
-        "tags": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "p39nycxzit31"
-          }
-        },
-        "id": "HkclkRliQlVk7CCHn9PvH",
-        "type": "Entry",
-        "createdAt": "2022-01-10T15:01:11.449Z",
-        "updatedAt": "2022-01-10T15:01:19.702Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 2,
-        "publishedAt": "2022-01-10T15:01:19.702Z",
-        "firstPublishedAt": "2022-01-10T15:01:19.702Z",
-        "createdBy": {
-          "sys": {
-            "type": "Link",
-            "linkType": "User",
-            "id": "4SDtqAl8Y6iEC5454bbsbU"
-          }
-        },
-        "updatedBy": {
-          "sys": {
-            "type": "Link",
-            "linkType": "User",
-            "id": "4SDtqAl8Y6iEC5454bbsbU"
-          }
-        },
-        "publishedCounter": 1,
-        "version": 3,
-        "publishedBy": {
-          "sys": {
-            "type": "Link",
-            "linkType": "User",
-            "id": "4SDtqAl8Y6iEC5454bbsbU"
-          }
-        },
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "homepageStat"
-          }
-        }
-      },
-      "fields": {
-        "value": {
           "en-US": "256"
         },
         "label": {
-          "en-US": "GB"
+          "en-US": "TB"
         }
       }
     },
@@ -7886,7 +7886,7 @@
         "id": "2QNQHF26ownVtAWcnMlzJK",
         "type": "Entry",
         "createdAt": "2022-01-10T15:01:40.432Z",
-        "updatedAt": "2022-01-10T15:01:49.760Z",
+        "updatedAt": "2022-02-28T21:43:41.368Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -7894,8 +7894,8 @@
             "linkType": "Environment"
           }
         },
-        "publishedVersion": 2,
-        "publishedAt": "2022-01-10T15:01:49.760Z",
+        "publishedVersion": 4,
+        "publishedAt": "2022-02-28T21:43:41.368Z",
         "firstPublishedAt": "2022-01-10T15:01:49.760Z",
         "createdBy": {
           "sys": {
@@ -7911,8 +7911,8 @@
             "id": "4SDtqAl8Y6iEC5454bbsbU"
           }
         },
-        "publishedCounter": 1,
-        "version": 3,
+        "publishedCounter": 2,
+        "version": 5,
         "publishedBy": {
           "sys": {
             "type": "Link",
@@ -7933,7 +7933,7 @@
           "en-US": "Deploy Now"
         },
         "href": {
-          "en-US": "#!"
+          "en-US": "https://github.com/gatsbyjs/gatsby-starter-contentful-homepage#deploy-your-site"
         }
       }
     },
@@ -7952,7 +7952,7 @@
         "id": "22cnGFDGQqBZETnq91IeVk",
         "type": "Entry",
         "createdAt": "2022-01-10T15:01:53.777Z",
-        "updatedAt": "2022-01-10T15:02:00.965Z",
+        "updatedAt": "2022-02-28T21:48:31.393Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -7960,8 +7960,8 @@
             "linkType": "Environment"
           }
         },
-        "publishedVersion": 2,
-        "publishedAt": "2022-01-10T15:02:00.965Z",
+        "publishedVersion": 4,
+        "publishedAt": "2022-02-28T21:48:31.393Z",
         "firstPublishedAt": "2022-01-10T15:02:00.965Z",
         "createdBy": {
           "sys": {
@@ -7977,8 +7977,8 @@
             "id": "4SDtqAl8Y6iEC5454bbsbU"
           }
         },
-        "publishedCounter": 1,
-        "version": 3,
+        "publishedCounter": 2,
+        "version": 5,
         "publishedBy": {
           "sys": {
             "type": "Link",
@@ -7999,7 +7999,7 @@
           "en-US": "GitHub"
         },
         "href": {
-          "en-US": "#!"
+          "en-US": "https://github.com/gatsbyjs/gatsby-starter-contentful-homepage"
         }
       }
     },
@@ -9025,7 +9025,7 @@
         "id": "6zSKTZEftRPRCwJUnCabtr",
         "type": "Entry",
         "createdAt": "2022-01-11T18:38:11.847Z",
-        "updatedAt": "2022-01-11T18:41:14.622Z",
+        "updatedAt": "2022-02-28T16:53:33.375Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -9033,8 +9033,8 @@
             "linkType": "Environment"
           }
         },
-        "publishedVersion": 7,
-        "publishedAt": "2022-01-11T18:41:14.622Z",
+        "publishedVersion": 9,
+        "publishedAt": "2022-02-28T16:53:33.375Z",
         "firstPublishedAt": "2022-01-11T18:41:14.622Z",
         "createdBy": {
           "sys": {
@@ -9050,8 +9050,8 @@
             "id": "4SDtqAl8Y6iEC5454bbsbU"
           }
         },
-        "publishedCounter": 1,
-        "version": 8,
+        "publishedCounter": 2,
+        "version": 10,
         "publishedBy": {
           "sys": {
             "type": "Link",
@@ -9073,7 +9073,7 @@
             "sys": {
               "type": "Link",
               "linkType": "Asset",
-              "id": "312Q6AmsgHzfyeITAbC8FW"
+              "id": "5qFIlp4Bnz120KKUwjn4nr"
             }
           }
         },
@@ -9114,7 +9114,7 @@
         "id": "2JR3oqAVX1piHeqafX3J0r",
         "type": "Entry",
         "createdAt": "2022-01-13T17:14:55.320Z",
-        "updatedAt": "2022-01-13T17:15:07.680Z",
+        "updatedAt": "2022-02-28T16:54:13.919Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -9122,8 +9122,8 @@
             "linkType": "Environment"
           }
         },
-        "publishedVersion": 2,
-        "publishedAt": "2022-01-13T17:15:07.680Z",
+        "publishedVersion": 4,
+        "publishedAt": "2022-02-28T16:54:13.919Z",
         "firstPublishedAt": "2022-01-13T17:15:07.680Z",
         "createdBy": {
           "sys": {
@@ -9139,8 +9139,8 @@
             "id": "4SDtqAl8Y6iEC5454bbsbU"
           }
         },
-        "publishedCounter": 1,
-        "version": 3,
+        "publishedCounter": 2,
+        "version": 5,
         "publishedBy": {
           "sys": {
             "type": "Link",
@@ -9167,7 +9167,7 @@
           }
         },
         "alt": {
-          "en-US": "Fairbank"
+          "en-US": "Foobank"
         }
       }
     },
@@ -9186,7 +9186,7 @@
         "id": "1Cw1Pzla2UoVcVy8CtSQgW",
         "type": "Entry",
         "createdAt": "2022-01-13T17:15:11.124Z",
-        "updatedAt": "2022-01-13T17:15:30.141Z",
+        "updatedAt": "2022-02-28T16:53:55.415Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -9194,8 +9194,8 @@
             "linkType": "Environment"
           }
         },
-        "publishedVersion": 4,
-        "publishedAt": "2022-01-13T17:15:30.141Z",
+        "publishedVersion": 5,
+        "publishedAt": "2022-02-28T16:53:55.415Z",
         "firstPublishedAt": "2022-01-13T17:15:30.141Z",
         "createdBy": {
           "sys": {
@@ -9211,8 +9211,8 @@
             "id": "4SDtqAl8Y6iEC5454bbsbU"
           }
         },
-        "publishedCounter": 1,
-        "version": 5,
+        "publishedCounter": 2,
+        "version": 6,
         "publishedBy": {
           "sys": {
             "type": "Link",
@@ -9636,7 +9636,7 @@
         "id": "JXP4ZSuOFRnvFXbvByFew",
         "type": "Entry",
         "createdAt": "2022-01-19T21:06:55.060Z",
-        "updatedAt": "2022-02-22T01:47:19.222Z",
+        "updatedAt": "2022-03-01T23:23:58.660Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -9644,8 +9644,8 @@
             "linkType": "Environment"
           }
         },
-        "publishedVersion": 5,
-        "publishedAt": "2022-02-22T01:47:19.222Z",
+        "publishedVersion": 8,
+        "publishedAt": "2022-03-01T23:23:58.660Z",
         "firstPublishedAt": "2022-01-19T21:07:14.514Z",
         "createdBy": {
           "sys": {
@@ -9661,8 +9661,8 @@
             "id": "4SDtqAl8Y6iEC5454bbsbU"
           }
         },
-        "publishedCounter": 2,
-        "version": 6,
+        "publishedCounter": 3,
+        "version": 9,
         "publishedBy": {
           "sys": {
             "type": "Link",
@@ -9684,7 +9684,7 @@
             "sys": {
               "type": "Link",
               "linkType": "Asset",
-              "id": "1JSyvUW6IEcZPYdXZMJrjI"
+              "id": "5boa41st6eC2b0PqgWfUs9"
             }
           }
         },
@@ -17964,7 +17964,7 @@
         "id": "312Q6AmsgHzfyeITAbC8FW",
         "type": "Asset",
         "createdAt": "2022-01-11T18:31:30.470Z",
-        "updatedAt": "2022-01-25T03:30:57.976Z",
+        "updatedAt": "2022-02-28T17:22:48.198Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -17972,8 +17972,8 @@
             "linkType": "Environment"
           }
         },
-        "publishedVersion": 9,
-        "publishedAt": "2022-01-25T03:30:57.976Z",
+        "publishedVersion": 13,
+        "publishedAt": "2022-02-28T17:22:48.198Z",
         "firstPublishedAt": "2022-01-11T18:39:09.037Z",
         "createdBy": {
           "sys": {
@@ -17989,8 +17989,8 @@
             "id": "4SDtqAl8Y6iEC5454bbsbU"
           }
         },
-        "publishedCounter": 2,
-        "version": 10,
+        "publishedCounter": 3,
+        "version": 14,
         "publishedBy": {
           "sys": {
             "type": "Link",
@@ -18008,15 +18008,15 @@
         },
         "file": {
           "en-US": {
-            "url": "//images.ctfassets.net/p39nycxzit31/312Q6AmsgHzfyeITAbC8FW/2b5f00cb081ec46a3020ab89381a7f36/vr-users.png",
+            "url": "//images.ctfassets.net/p39nycxzit31/312Q6AmsgHzfyeITAbC8FW/2b8d8247b5d64f42ffff70519b633c34/VR_XP_x2.png",
             "details": {
-              "size": 130072,
+              "size": 163371,
               "image": {
-                "width": 1776,
-                "height": 1185
+                "width": 2368,
+                "height": 1776
               }
             },
-            "fileName": "vr-users.png",
+            "fileName": "VR XP x2.png",
             "contentType": "image/png"
           }
         }
@@ -18037,7 +18037,299 @@
         "id": "U3SK6xjRhpQRa9vJy8nyM",
         "type": "Asset",
         "createdAt": "2022-01-11T18:31:30.524Z",
-        "updatedAt": "2022-02-22T01:02:51.408Z",
+        "updatedAt": "2022-02-28T17:22:19.847Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 24,
+        "publishedAt": "2022-02-28T17:22:19.847Z",
+        "firstPublishedAt": "2022-01-11T18:35:39.054Z",
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "4SDtqAl8Y6iEC5454bbsbU"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "4SDtqAl8Y6iEC5454bbsbU"
+          }
+        },
+        "publishedCounter": 6,
+        "version": 25,
+        "publishedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "4SDtqAl8Y6iEC5454bbsbU"
+          }
+        }
+      },
+      "fields": {
+        "title": {
+          "en-US": "Metaverse"
+        },
+        "description": {
+          "en-US": "Illustration of a person wearing VR goggles"
+        },
+        "file": {
+          "en-US": {
+            "url": "//images.ctfassets.net/p39nycxzit31/U3SK6xjRhpQRa9vJy8nyM/b57a359f6fed8bf3e3b8cc7af66bb896/Hero.png",
+            "details": {
+              "size": 170207,
+              "image": {
+                "width": 2368,
+                "height": 1776
+              }
+            },
+            "fileName": "Hero.png",
+            "contentType": "image/png"
+          }
+        }
+      }
+    },
+    {
+      "metadata": {
+        "tags": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "p39nycxzit31"
+          }
+        },
+        "id": "24pDVWYAGqV18dKDuEdFvb",
+        "type": "Asset",
+        "createdAt": "2022-01-11T18:31:30.577Z",
+        "updatedAt": "2022-02-28T17:24:05.202Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 12,
+        "publishedAt": "2022-02-28T17:24:05.202Z",
+        "firstPublishedAt": "2022-01-13T17:09:44.071Z",
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "4SDtqAl8Y6iEC5454bbsbU"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "4SDtqAl8Y6iEC5454bbsbU"
+          }
+        },
+        "publishedCounter": 3,
+        "version": 13,
+        "publishedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "4SDtqAl8Y6iEC5454bbsbU"
+          }
+        }
+      },
+      "fields": {
+        "title": {
+          "en-US": "Runner Illustration"
+        },
+        "description": {
+          "en-US": "Illustration of person running"
+        },
+        "file": {
+          "en-US": {
+            "url": "//images.ctfassets.net/p39nycxzit31/24pDVWYAGqV18dKDuEdFvb/73561bdf2d05680cc7ff4307d975b0c1/Runner.png",
+            "details": {
+              "size": 125046,
+              "image": {
+                "width": 2368,
+                "height": 1776
+              }
+            },
+            "fileName": "Runner.png",
+            "contentType": "image/png"
+          }
+        }
+      }
+    },
+    {
+      "metadata": {
+        "tags": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "p39nycxzit31"
+          }
+        },
+        "id": "5ZkiE2jhld2iLz7VBmMEeX",
+        "type": "Asset",
+        "createdAt": "2022-01-11T18:31:30.607Z",
+        "updatedAt": "2022-02-28T17:23:20.989Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 15,
+        "publishedAt": "2022-02-28T17:23:20.989Z",
+        "firstPublishedAt": "2022-01-11T18:37:51.883Z",
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "4SDtqAl8Y6iEC5454bbsbU"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "4SDtqAl8Y6iEC5454bbsbU"
+          }
+        },
+        "publishedCounter": 3,
+        "version": 16,
+        "publishedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "4SDtqAl8Y6iEC5454bbsbU"
+          }
+        }
+      },
+      "fields": {
+        "title": {
+          "en-US": "Developer Floating"
+        },
+        "description": {
+          "en-US": "Person floating with laptop and icons spinning around them"
+        },
+        "file": {
+          "en-US": {
+            "url": "//images.ctfassets.net/p39nycxzit31/5ZkiE2jhld2iLz7VBmMEeX/223441d2ce4f404abb070644b0c261d1/Developer.png",
+            "details": {
+              "size": 168287,
+              "image": {
+                "width": 2368,
+                "height": 1776
+              }
+            },
+            "fileName": "Developer.png",
+            "contentType": "image/png"
+          }
+        }
+      }
+    },
+    {
+      "metadata": {
+        "tags": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "p39nycxzit31"
+          }
+        },
+        "id": "3iDlFjaWRQtjWQqnYpALY7",
+        "type": "Asset",
+        "createdAt": "2022-01-11T18:31:30.617Z",
+        "updatedAt": "2022-02-28T17:23:47.779Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 14,
+        "publishedAt": "2022-02-28T17:23:47.779Z",
+        "firstPublishedAt": "2022-01-13T17:10:14.829Z",
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "4SDtqAl8Y6iEC5454bbsbU"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "4SDtqAl8Y6iEC5454bbsbU"
+          }
+        },
+        "publishedCounter": 3,
+        "version": 15,
+        "publishedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "4SDtqAl8Y6iEC5454bbsbU"
+          }
+        }
+      },
+      "fields": {
+        "title": {
+          "en-US": "Floating Illustration"
+        },
+        "description": {
+          "en-US": "Illustration of person floating in space with VR goggles on"
+        },
+        "file": {
+          "en-US": {
+            "url": "//images.ctfassets.net/p39nycxzit31/3iDlFjaWRQtjWQqnYpALY7/94ef1ed7be471ec5ce1551e568c66154/Floating.png",
+            "details": {
+              "size": 187402,
+              "image": {
+                "width": 4864,
+                "height": 2076
+              }
+            },
+            "fileName": "Floating.png",
+            "contentType": "image/png"
+          }
+        }
+      }
+    },
+    {
+      "metadata": {
+        "tags": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "p39nycxzit31"
+          }
+        },
+        "id": "4DFPReSnygghk6dLbEiIah",
+        "type": "Asset",
+        "createdAt": "2022-01-13T17:09:21.892Z",
+        "updatedAt": "2022-02-28T20:35:19.024Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -18046,8 +18338,8 @@
           }
         },
         "publishedVersion": 16,
-        "publishedAt": "2022-02-22T01:02:51.408Z",
-        "firstPublishedAt": "2022-01-11T18:35:39.054Z",
+        "publishedAt": "2022-02-28T20:35:19.024Z",
+        "firstPublishedAt": "2022-01-13T17:11:27.683Z",
         "createdBy": {
           "sys": {
             "type": "Link",
@@ -18074,311 +18366,19 @@
       },
       "fields": {
         "title": {
-          "en-US": "Metaverse"
-        },
-        "description": {
-          "en-US": "Illustration of a person wearing VR goggles"
-        },
-        "file": {
-          "en-US": {
-            "url": "//images.ctfassets.net/p39nycxzit31/U3SK6xjRhpQRa9vJy8nyM/c0d882c61e92560fbba077544c119344/Hero.png",
-            "details": {
-              "size": 113271,
-              "image": {
-                "width": 1776,
-                "height": 1353
-              }
-            },
-            "fileName": "Hero.png",
-            "contentType": "image/png"
-          }
-        }
-      }
-    },
-    {
-      "metadata": {
-        "tags": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "p39nycxzit31"
-          }
-        },
-        "id": "24pDVWYAGqV18dKDuEdFvb",
-        "type": "Asset",
-        "createdAt": "2022-01-11T18:31:30.577Z",
-        "updatedAt": "2022-01-25T03:29:43.126Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 8,
-        "publishedAt": "2022-01-25T03:29:43.126Z",
-        "firstPublishedAt": "2022-01-13T17:09:44.071Z",
-        "createdBy": {
-          "sys": {
-            "type": "Link",
-            "linkType": "User",
-            "id": "4SDtqAl8Y6iEC5454bbsbU"
-          }
-        },
-        "updatedBy": {
-          "sys": {
-            "type": "Link",
-            "linkType": "User",
-            "id": "4SDtqAl8Y6iEC5454bbsbU"
-          }
-        },
-        "publishedCounter": 2,
-        "version": 9,
-        "publishedBy": {
-          "sys": {
-            "type": "Link",
-            "linkType": "User",
-            "id": "4SDtqAl8Y6iEC5454bbsbU"
-          }
-        }
-      },
-      "fields": {
-        "title": {
-          "en-US": "Runner Illustration"
-        },
-        "description": {
-          "en-US": "Illustration of person running"
-        },
-        "file": {
-          "en-US": {
-            "url": "//images.ctfassets.net/p39nycxzit31/24pDVWYAGqV18dKDuEdFvb/0ad1783d03e45b821f3b1244fb4abd83/runner.png",
-            "details": {
-              "size": 94356,
-              "image": {
-                "width": 1776,
-                "height": 1314
-              }
-            },
-            "fileName": "runner.png",
-            "contentType": "image/png"
-          }
-        }
-      }
-    },
-    {
-      "metadata": {
-        "tags": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "p39nycxzit31"
-          }
-        },
-        "id": "5ZkiE2jhld2iLz7VBmMEeX",
-        "type": "Asset",
-        "createdAt": "2022-01-11T18:31:30.607Z",
-        "updatedAt": "2022-01-25T03:30:35.999Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 11,
-        "publishedAt": "2022-01-25T03:30:35.999Z",
-        "firstPublishedAt": "2022-01-11T18:37:51.883Z",
-        "createdBy": {
-          "sys": {
-            "type": "Link",
-            "linkType": "User",
-            "id": "4SDtqAl8Y6iEC5454bbsbU"
-          }
-        },
-        "updatedBy": {
-          "sys": {
-            "type": "Link",
-            "linkType": "User",
-            "id": "4SDtqAl8Y6iEC5454bbsbU"
-          }
-        },
-        "publishedCounter": 2,
-        "version": 12,
-        "publishedBy": {
-          "sys": {
-            "type": "Link",
-            "linkType": "User",
-            "id": "4SDtqAl8Y6iEC5454bbsbU"
-          }
-        }
-      },
-      "fields": {
-        "title": {
-          "en-US": "Developer Floating"
-        },
-        "description": {
-          "en-US": "Person floating with laptop and icons spinning around them"
-        },
-        "file": {
-          "en-US": {
-            "url": "//images.ctfassets.net/p39nycxzit31/5ZkiE2jhld2iLz7VBmMEeX/d9b36d2487a38caed8948d7d45fb6ec8/developer.png",
-            "details": {
-              "size": 157163,
-              "image": {
-                "width": 1776,
-                "height": 1368
-              }
-            },
-            "fileName": "developer.png",
-            "contentType": "image/png"
-          }
-        }
-      }
-    },
-    {
-      "metadata": {
-        "tags": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "p39nycxzit31"
-          }
-        },
-        "id": "3iDlFjaWRQtjWQqnYpALY7",
-        "type": "Asset",
-        "createdAt": "2022-01-11T18:31:30.617Z",
-        "updatedAt": "2022-01-25T03:36:47.447Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 10,
-        "publishedAt": "2022-01-25T03:36:47.447Z",
-        "firstPublishedAt": "2022-01-13T17:10:14.829Z",
-        "createdBy": {
-          "sys": {
-            "type": "Link",
-            "linkType": "User",
-            "id": "4SDtqAl8Y6iEC5454bbsbU"
-          }
-        },
-        "updatedBy": {
-          "sys": {
-            "type": "Link",
-            "linkType": "User",
-            "id": "4SDtqAl8Y6iEC5454bbsbU"
-          }
-        },
-        "publishedCounter": 2,
-        "version": 11,
-        "publishedBy": {
-          "sys": {
-            "type": "Link",
-            "linkType": "User",
-            "id": "4SDtqAl8Y6iEC5454bbsbU"
-          }
-        }
-      },
-      "fields": {
-        "title": {
-          "en-US": "Floating Illustration"
-        },
-        "description": {
-          "en-US": "Illustration of person floating in space with VR goggles on"
-        },
-        "file": {
-          "en-US": {
-            "url": "//images.ctfassets.net/p39nycxzit31/3iDlFjaWRQtjWQqnYpALY7/fcbf80da1fbd0853e6ec505a8b36d470/falling.png",
-            "details": {
-              "size": 108287,
-              "image": {
-                "width": 3648,
-                "height": 1104
-              }
-            },
-            "fileName": "falling.png",
-            "contentType": "image/png"
-          }
-        }
-      }
-    },
-    {
-      "metadata": {
-        "tags": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "p39nycxzit31"
-          }
-        },
-        "id": "4DFPReSnygghk6dLbEiIah",
-        "type": "Asset",
-        "createdAt": "2022-01-13T17:09:21.892Z",
-        "updatedAt": "2022-01-25T21:10:39.980Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 8,
-        "publishedAt": "2022-01-25T21:10:39.980Z",
-        "firstPublishedAt": "2022-01-13T17:11:27.683Z",
-        "createdBy": {
-          "sys": {
-            "type": "Link",
-            "linkType": "User",
-            "id": "4SDtqAl8Y6iEC5454bbsbU"
-          }
-        },
-        "updatedBy": {
-          "sys": {
-            "type": "Link",
-            "linkType": "User",
-            "id": "4SDtqAl8Y6iEC5454bbsbU"
-          }
-        },
-        "publishedCounter": 2,
-        "version": 9,
-        "publishedBy": {
-          "sys": {
-            "type": "Link",
-            "linkType": "User",
-            "id": "4SDtqAl8Y6iEC5454bbsbU"
-          }
-        }
-      },
-      "fields": {
-        "title": {
           "en-US": "Storm Icon Inverted Hexagon"
         },
         "file": {
           "en-US": {
-            "url": "//images.ctfassets.net/p39nycxzit31/4DFPReSnygghk6dLbEiIah/33e90c2164849f9252378df7d2d0e1c9/super-app.png",
+            "url": "//images.ctfassets.net/p39nycxzit31/4DFPReSnygghk6dLbEiIah/1c1fa5d7215efb39129c5695b4853ff5/Product_SuperApp__Inverted_false__Size_Large.png",
             "details": {
-              "size": 4263,
+              "size": 4404,
               "image": {
                 "width": 192,
                 "height": 192
               }
             },
-            "fileName": "super-app.png",
+            "fileName": "Product=SuperApp, Inverted=false, Size=Large.png",
             "contentType": "image/png"
           }
         }
@@ -18399,777 +18399,7 @@
         "id": "6RqJtLsGmHbthJ4oSb8dgv",
         "type": "Asset",
         "createdAt": "2022-01-13T17:09:21.918Z",
-        "updatedAt": "2022-01-25T21:11:10.839Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 7,
-        "publishedAt": "2022-01-25T21:11:10.839Z",
-        "firstPublishedAt": "2022-01-13T17:11:40.273Z",
-        "createdBy": {
-          "sys": {
-            "type": "Link",
-            "linkType": "User",
-            "id": "4SDtqAl8Y6iEC5454bbsbU"
-          }
-        },
-        "updatedBy": {
-          "sys": {
-            "type": "Link",
-            "linkType": "User",
-            "id": "4SDtqAl8Y6iEC5454bbsbU"
-          }
-        },
-        "publishedCounter": 2,
-        "version": 8,
-        "publishedBy": {
-          "sys": {
-            "type": "Link",
-            "linkType": "User",
-            "id": "4SDtqAl8Y6iEC5454bbsbU"
-          }
-        }
-      },
-      "fields": {
-        "title": {
-          "en-US": "Umbrella Icon Inverted Circle"
-        },
-        "file": {
-          "en-US": {
-            "url": "//images.ctfassets.net/p39nycxzit31/6RqJtLsGmHbthJ4oSb8dgv/9ba4fa35b3e98b0ce7d806aee275bc04/hiper-market.png",
-            "details": {
-              "size": 4846,
-              "image": {
-                "width": 192,
-                "height": 192
-              }
-            },
-            "fileName": "hiper-market.png",
-            "contentType": "image/png"
-          }
-        }
-      }
-    },
-    {
-      "metadata": {
-        "tags": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "p39nycxzit31"
-          }
-        },
-        "id": "7zaZlhlcchnVCDg86U39kr",
-        "type": "Asset",
-        "createdAt": "2022-01-13T17:09:21.920Z",
-        "updatedAt": "2022-01-13T17:10:26.828Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 3,
-        "publishedAt": "2022-01-13T17:10:26.828Z",
-        "firstPublishedAt": "2022-01-13T17:10:26.828Z",
-        "createdBy": {
-          "sys": {
-            "type": "Link",
-            "linkType": "User",
-            "id": "4SDtqAl8Y6iEC5454bbsbU"
-          }
-        },
-        "updatedBy": {
-          "sys": {
-            "type": "Link",
-            "linkType": "User",
-            "id": "4SDtqAl8Y6iEC5454bbsbU"
-          }
-        },
-        "publishedCounter": 1,
-        "version": 4,
-        "publishedBy": {
-          "sys": {
-            "type": "Link",
-            "linkType": "User",
-            "id": "4SDtqAl8Y6iEC5454bbsbU"
-          }
-        }
-      },
-      "fields": {
-        "title": {
-          "en-US": "Film Icon"
-        },
-        "file": {
-          "en-US": {
-            "url": "//images.ctfassets.net/p39nycxzit31/7zaZlhlcchnVCDg86U39kr/cb363bc727907118eeb66e7112dea1ae/Icons__2_.png",
-            "details": {
-              "size": 735,
-              "image": {
-                "width": 72,
-                "height": 72
-              }
-            },
-            "fileName": "Icons (2).png",
-            "contentType": "image/png"
-          }
-        }
-      }
-    },
-    {
-      "metadata": {
-        "tags": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "p39nycxzit31"
-          }
-        },
-        "id": "1hMYL4ThUzE3HOoBccrAOr",
-        "type": "Asset",
-        "createdAt": "2022-01-13T17:09:21.921Z",
-        "updatedAt": "2022-01-13T17:11:49.849Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 3,
-        "publishedAt": "2022-01-13T17:11:49.849Z",
-        "firstPublishedAt": "2022-01-13T17:11:49.849Z",
-        "createdBy": {
-          "sys": {
-            "type": "Link",
-            "linkType": "User",
-            "id": "4SDtqAl8Y6iEC5454bbsbU"
-          }
-        },
-        "updatedBy": {
-          "sys": {
-            "type": "Link",
-            "linkType": "User",
-            "id": "4SDtqAl8Y6iEC5454bbsbU"
-          }
-        },
-        "publishedCounter": 1,
-        "version": 4,
-        "publishedBy": {
-          "sys": {
-            "type": "Link",
-            "linkType": "User",
-            "id": "4SDtqAl8Y6iEC5454bbsbU"
-          }
-        }
-      },
-      "fields": {
-        "title": {
-          "en-US": "Umbrella Icon"
-        },
-        "file": {
-          "en-US": {
-            "url": "//images.ctfassets.net/p39nycxzit31/1hMYL4ThUzE3HOoBccrAOr/e77e7581da9cd1f77682adcdb1b6ea3b/Icons__1_.png",
-            "details": {
-              "size": 1381,
-              "image": {
-                "width": 72,
-                "height": 72
-              }
-            },
-            "fileName": "Icons (1).png",
-            "contentType": "image/png"
-          }
-        }
-      }
-    },
-    {
-      "metadata": {
-        "tags": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "p39nycxzit31"
-          }
-        },
-        "id": "1HICYZjLGX3we5MC3TD5uf",
-        "type": "Asset",
-        "createdAt": "2022-01-13T17:09:21.928Z",
-        "updatedAt": "2022-01-25T21:12:31.834Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 7,
-        "publishedAt": "2022-01-25T21:12:31.834Z",
-        "firstPublishedAt": "2022-01-13T17:12:02.733Z",
-        "createdBy": {
-          "sys": {
-            "type": "Link",
-            "linkType": "User",
-            "id": "4SDtqAl8Y6iEC5454bbsbU"
-          }
-        },
-        "updatedBy": {
-          "sys": {
-            "type": "Link",
-            "linkType": "User",
-            "id": "4SDtqAl8Y6iEC5454bbsbU"
-          }
-        },
-        "publishedCounter": 2,
-        "version": 8,
-        "publishedBy": {
-          "sys": {
-            "type": "Link",
-            "linkType": "User",
-            "id": "4SDtqAl8Y6iEC5454bbsbU"
-          }
-        }
-      },
-      "fields": {
-        "title": {
-          "en-US": "Storm Icon"
-        },
-        "file": {
-          "en-US": {
-            "url": "//images.ctfassets.net/p39nycxzit31/1HICYZjLGX3we5MC3TD5uf/209b43ebfa865a43da539cecfc8fa8e4/super-app.png",
-            "details": {
-              "size": 4263,
-              "image": {
-                "width": 192,
-                "height": 192
-              }
-            },
-            "fileName": "super-app.png",
-            "contentType": "image/png"
-          }
-        }
-      }
-    },
-    {
-      "metadata": {
-        "tags": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "p39nycxzit31"
-          }
-        },
-        "id": "3E4AFvWEN1tvgt2yzDqbBA",
-        "type": "Asset",
-        "createdAt": "2022-01-13T17:09:21.933Z",
-        "updatedAt": "2022-01-25T21:10:58.061Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 9,
-        "publishedAt": "2022-01-25T21:10:58.061Z",
-        "firstPublishedAt": "2022-01-13T17:10:37.060Z",
-        "createdBy": {
-          "sys": {
-            "type": "Link",
-            "linkType": "User",
-            "id": "4SDtqAl8Y6iEC5454bbsbU"
-          }
-        },
-        "updatedBy": {
-          "sys": {
-            "type": "Link",
-            "linkType": "User",
-            "id": "4SDtqAl8Y6iEC5454bbsbU"
-          }
-        },
-        "publishedCounter": 3,
-        "version": 10,
-        "publishedBy": {
-          "sys": {
-            "type": "Link",
-            "linkType": "User",
-            "id": "4SDtqAl8Y6iEC5454bbsbU"
-          }
-        }
-      },
-      "fields": {
-        "title": {
-          "en-US": "Pulse Icon Inverted"
-        },
-        "file": {
-          "en-US": {
-            "url": "//images.ctfassets.net/p39nycxzit31/3E4AFvWEN1tvgt2yzDqbBA/3d36f678979fa589f060aacf4786b728/acme-track.png",
-            "details": {
-              "size": 2535,
-              "image": {
-                "width": 192,
-                "height": 192
-              }
-            },
-            "fileName": "acme-track.png",
-            "contentType": "image/png"
-          }
-        }
-      }
-    },
-    {
-      "metadata": {
-        "tags": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "p39nycxzit31"
-          }
-        },
-        "id": "1JSyvUW6IEcZPYdXZMJrjI",
-        "type": "Asset",
-        "createdAt": "2022-01-13T17:09:22.826Z",
-        "updatedAt": "2022-01-13T17:11:10.690Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 3,
-        "publishedAt": "2022-01-13T17:11:10.690Z",
-        "firstPublishedAt": "2022-01-13T17:11:10.690Z",
-        "createdBy": {
-          "sys": {
-            "type": "Link",
-            "linkType": "User",
-            "id": "4SDtqAl8Y6iEC5454bbsbU"
-          }
-        },
-        "updatedBy": {
-          "sys": {
-            "type": "Link",
-            "linkType": "User",
-            "id": "4SDtqAl8Y6iEC5454bbsbU"
-          }
-        },
-        "publishedCounter": 1,
-        "version": 4,
-        "publishedBy": {
-          "sys": {
-            "type": "Link",
-            "linkType": "User",
-            "id": "4SDtqAl8Y6iEC5454bbsbU"
-          }
-        }
-      },
-      "fields": {
-        "title": {
-          "en-US": "Pulse Icon"
-        },
-        "file": {
-          "en-US": {
-            "url": "//images.ctfassets.net/p39nycxzit31/1JSyvUW6IEcZPYdXZMJrjI/511a77dc08ae56555f5bb6b65cdf278e/Icons.png",
-            "details": {
-              "size": 895,
-              "image": {
-                "width": 72,
-                "height": 72
-              }
-            },
-            "fileName": "Icons.png",
-            "contentType": "image/png"
-          }
-        }
-      }
-    },
-    {
-      "metadata": {
-        "tags": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "p39nycxzit31"
-          }
-        },
-        "id": "6rPED2BkqOSXGnCMm3Avg5",
-        "type": "Asset",
-        "createdAt": "2022-01-13T17:09:22.851Z",
-        "updatedAt": "2022-02-21T23:07:27.157Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 11,
-        "publishedAt": "2022-02-21T23:07:27.157Z",
-        "firstPublishedAt": "2022-01-13T17:10:58.454Z",
-        "createdBy": {
-          "sys": {
-            "type": "Link",
-            "linkType": "User",
-            "id": "4SDtqAl8Y6iEC5454bbsbU"
-          }
-        },
-        "updatedBy": {
-          "sys": {
-            "type": "Link",
-            "linkType": "User",
-            "id": "4SDtqAl8Y6iEC5454bbsbU"
-          }
-        },
-        "publishedCounter": 3,
-        "version": 12,
-        "publishedBy": {
-          "sys": {
-            "type": "Link",
-            "linkType": "User",
-            "id": "4SDtqAl8Y6iEC5454bbsbU"
-          }
-        }
-      },
-      "fields": {
-        "title": {
-          "en-US": "Avatar"
-        },
-        "file": {
-          "en-US": {
-            "url": "//images.ctfassets.net/p39nycxzit31/6rPED2BkqOSXGnCMm3Avg5/63b95d5ab1423f6827f8b06114317ed5/image.png",
-            "details": {
-              "size": 19708,
-              "image": {
-                "width": 144,
-                "height": 144
-              }
-            },
-            "fileName": "image.png",
-            "contentType": "image/png"
-          }
-        }
-      }
-    },
-    {
-      "metadata": {
-        "tags": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "p39nycxzit31"
-          }
-        },
-        "id": "19n5p9BFjcCGQ6tIkdosao",
-        "type": "Asset",
-        "createdAt": "2022-01-13T17:13:22.611Z",
-        "updatedAt": "2022-02-21T23:42:01.857Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 18,
-        "publishedAt": "2022-02-21T23:42:01.857Z",
-        "firstPublishedAt": "2022-01-13T17:13:54.562Z",
-        "createdBy": {
-          "sys": {
-            "type": "Link",
-            "linkType": "User",
-            "id": "4SDtqAl8Y6iEC5454bbsbU"
-          }
-        },
-        "updatedBy": {
-          "sys": {
-            "type": "Link",
-            "linkType": "User",
-            "id": "4SDtqAl8Y6iEC5454bbsbU"
-          }
-        },
-        "publishedCounter": 4,
-        "version": 19,
-        "publishedBy": {
-          "sys": {
-            "type": "Link",
-            "linkType": "User",
-            "id": "4SDtqAl8Y6iEC5454bbsbU"
-          }
-        }
-      },
-      "fields": {
-        "title": {
-          "en-US": "Foobank Logo"
-        },
-        "file": {
-          "en-US": {
-            "url": "//images.ctfassets.net/p39nycxzit31/19n5p9BFjcCGQ6tIkdosao/1259d3a7146057f11fd34ecfc0cfdb74/Property_1_Foobank.png",
-            "details": {
-              "size": 5561,
-              "image": {
-                "width": 384,
-                "height": 96
-              }
-            },
-            "fileName": "Property 1=Foobank.png",
-            "contentType": "image/png"
-          }
-        }
-      }
-    },
-    {
-      "metadata": {
-        "tags": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "p39nycxzit31"
-          }
-        },
-        "id": "5ekeGJZAc9K0NoxenTtvos",
-        "type": "Asset",
-        "createdAt": "2022-01-13T17:13:22.613Z",
-        "updatedAt": "2022-02-21T23:42:35.448Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 14,
-        "publishedAt": "2022-02-21T23:42:35.448Z",
-        "firstPublishedAt": "2022-01-13T17:14:17.531Z",
-        "createdBy": {
-          "sys": {
-            "type": "Link",
-            "linkType": "User",
-            "id": "4SDtqAl8Y6iEC5454bbsbU"
-          }
-        },
-        "updatedBy": {
-          "sys": {
-            "type": "Link",
-            "linkType": "User",
-            "id": "4SDtqAl8Y6iEC5454bbsbU"
-          }
-        },
-        "publishedCounter": 4,
-        "version": 15,
-        "publishedBy": {
-          "sys": {
-            "type": "Link",
-            "linkType": "User",
-            "id": "4SDtqAl8Y6iEC5454bbsbU"
-          }
-        }
-      },
-      "fields": {
-        "title": {
-          "en-US": "Deezii Logo"
-        },
-        "file": {
-          "en-US": {
-            "url": "//images.ctfassets.net/p39nycxzit31/5ekeGJZAc9K0NoxenTtvos/3122394d4371b57badd9eec7925199d3/Property_1_Deezii.png",
-            "details": {
-              "size": 3833,
-              "image": {
-                "width": 372,
-                "height": 96
-              }
-            },
-            "fileName": "Property 1=Deezii.png",
-            "contentType": "image/png"
-          }
-        }
-      }
-    },
-    {
-      "metadata": {
-        "tags": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "p39nycxzit31"
-          }
-        },
-        "id": "FUKEhfTLAag2fYhJTNbwT",
-        "type": "Asset",
-        "createdAt": "2022-01-13T17:13:22.625Z",
-        "updatedAt": "2022-02-21T23:45:55.029Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 21,
-        "publishedAt": "2022-02-21T23:45:55.029Z",
-        "firstPublishedAt": "2022-01-13T17:13:44.871Z",
-        "createdBy": {
-          "sys": {
-            "type": "Link",
-            "linkType": "User",
-            "id": "4SDtqAl8Y6iEC5454bbsbU"
-          }
-        },
-        "updatedBy": {
-          "sys": {
-            "type": "Link",
-            "linkType": "User",
-            "id": "4SDtqAl8Y6iEC5454bbsbU"
-          }
-        },
-        "publishedCounter": 6,
-        "version": 22,
-        "publishedBy": {
-          "sys": {
-            "type": "Link",
-            "linkType": "User",
-            "id": "4SDtqAl8Y6iEC5454bbsbU"
-          }
-        }
-      },
-      "fields": {
-        "title": {
-          "en-US": "Circuitzz Logo"
-        },
-        "file": {
-          "en-US": {
-            "url": "//images.ctfassets.net/p39nycxzit31/FUKEhfTLAag2fYhJTNbwT/6434d65de97066065fd3038c66d72225/Property_1_Circuitz.png",
-            "details": {
-              "size": 4971,
-              "image": {
-                "width": 384,
-                "height": 96
-              }
-            },
-            "fileName": "Property 1=Circuitz.png",
-            "contentType": "image/png"
-          }
-        }
-      }
-    },
-    {
-      "metadata": {
-        "tags": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "p39nycxzit31"
-          }
-        },
-        "id": "6o5bLV5MSbjzOVaQvS54xf",
-        "type": "Asset",
-        "createdAt": "2022-01-13T17:13:22.632Z",
-        "updatedAt": "2022-02-21T23:46:13.699Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 17,
-        "publishedAt": "2022-02-21T23:46:13.699Z",
-        "firstPublishedAt": "2022-01-13T17:14:03.232Z",
-        "createdBy": {
-          "sys": {
-            "type": "Link",
-            "linkType": "User",
-            "id": "4SDtqAl8Y6iEC5454bbsbU"
-          }
-        },
-        "updatedBy": {
-          "sys": {
-            "type": "Link",
-            "linkType": "User",
-            "id": "4SDtqAl8Y6iEC5454bbsbU"
-          }
-        },
-        "publishedCounter": 5,
-        "version": 18,
-        "publishedBy": {
-          "sys": {
-            "type": "Link",
-            "linkType": "User",
-            "id": "4SDtqAl8Y6iEC5454bbsbU"
-          }
-        }
-      },
-      "fields": {
-        "title": {
-          "en-US": "Funtendo Logo"
-        },
-        "file": {
-          "en-US": {
-            "url": "//images.ctfassets.net/p39nycxzit31/6o5bLV5MSbjzOVaQvS54xf/f3fa2dece2d555fefac4cb06044d49d7/Property_1_Funtendo.png",
-            "details": {
-              "size": 4694,
-              "image": {
-                "width": 384,
-                "height": 96
-              }
-            },
-            "fileName": "Property 1=Funtendo.png",
-            "contentType": "image/png"
-          }
-        }
-      }
-    },
-    {
-      "metadata": {
-        "tags": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "p39nycxzit31"
-          }
-        },
-        "id": "1TvrEUabcbAJWIymVccgcw",
-        "type": "Asset",
-        "createdAt": "2022-01-13T17:13:22.675Z",
-        "updatedAt": "2022-02-21T23:41:27.597Z",
+        "updatedAt": "2022-02-28T20:36:57.022Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -19178,8 +18408,8 @@
           }
         },
         "publishedVersion": 15,
-        "publishedAt": "2022-02-21T23:41:27.597Z",
-        "firstPublishedAt": "2022-01-13T17:14:30.587Z",
+        "publishedAt": "2022-02-28T20:36:57.022Z",
+        "firstPublishedAt": "2022-01-13T17:11:40.273Z",
         "createdBy": {
           "sys": {
             "type": "Link",
@@ -19206,19 +18436,789 @@
       },
       "fields": {
         "title": {
-          "en-US": "Chattr Logo"
+          "en-US": "Umbrella Icon Inverted Circle"
         },
         "file": {
           "en-US": {
-            "url": "//images.ctfassets.net/p39nycxzit31/1TvrEUabcbAJWIymVccgcw/779d59836aa5ba8d79b0a9b3019cf800/Property_1_Chatter.png",
+            "url": "//images.ctfassets.net/p39nycxzit31/6RqJtLsGmHbthJ4oSb8dgv/5cdf41d7e64a5bf447ef2c16f28cb079/Product_HyperMarket__Inverted_false__Size_Large.png",
             "details": {
-              "size": 4427,
+              "size": 4842,
+              "image": {
+                "width": 192,
+                "height": 192
+              }
+            },
+            "fileName": "Product=HyperMarket, Inverted=false, Size=Large.png",
+            "contentType": "image/png"
+          }
+        }
+      }
+    },
+    {
+      "metadata": {
+        "tags": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "p39nycxzit31"
+          }
+        },
+        "id": "7zaZlhlcchnVCDg86U39kr",
+        "type": "Asset",
+        "createdAt": "2022-01-13T17:09:21.920Z",
+        "updatedAt": "2022-02-28T20:45:48.028Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 7,
+        "publishedAt": "2022-02-28T20:45:48.028Z",
+        "firstPublishedAt": "2022-01-13T17:10:26.828Z",
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "4SDtqAl8Y6iEC5454bbsbU"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "4SDtqAl8Y6iEC5454bbsbU"
+          }
+        },
+        "publishedCounter": 2,
+        "version": 8,
+        "publishedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "4SDtqAl8Y6iEC5454bbsbU"
+          }
+        }
+      },
+      "fields": {
+        "title": {
+          "en-US": "Film Icon"
+        },
+        "file": {
+          "en-US": {
+            "url": "//images.ctfassets.net/p39nycxzit31/7zaZlhlcchnVCDg86U39kr/72065cf0d70e9df61196e8b10eb0d667/Property_1_film.png",
+            "details": {
+              "size": 837,
+              "image": {
+                "width": 72,
+                "height": 72
+              }
+            },
+            "fileName": "Property 1=film.png",
+            "contentType": "image/png"
+          }
+        }
+      }
+    },
+    {
+      "metadata": {
+        "tags": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "p39nycxzit31"
+          }
+        },
+        "id": "1hMYL4ThUzE3HOoBccrAOr",
+        "type": "Asset",
+        "createdAt": "2022-01-13T17:09:21.921Z",
+        "updatedAt": "2022-02-28T20:45:03.380Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 7,
+        "publishedAt": "2022-02-28T20:45:03.380Z",
+        "firstPublishedAt": "2022-01-13T17:11:49.849Z",
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "4SDtqAl8Y6iEC5454bbsbU"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "4SDtqAl8Y6iEC5454bbsbU"
+          }
+        },
+        "publishedCounter": 2,
+        "version": 8,
+        "publishedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "4SDtqAl8Y6iEC5454bbsbU"
+          }
+        }
+      },
+      "fields": {
+        "title": {
+          "en-US": "Umbrella Icon"
+        },
+        "file": {
+          "en-US": {
+            "url": "//images.ctfassets.net/p39nycxzit31/1hMYL4ThUzE3HOoBccrAOr/36627c861a0a887e59143d7d1908e751/Property_1_umbrella.png",
+            "details": {
+              "size": 1406,
+              "image": {
+                "width": 72,
+                "height": 72
+              }
+            },
+            "fileName": "Property 1=umbrella.png",
+            "contentType": "image/png"
+          }
+        }
+      }
+    },
+    {
+      "metadata": {
+        "tags": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "p39nycxzit31"
+          }
+        },
+        "id": "1HICYZjLGX3we5MC3TD5uf",
+        "type": "Asset",
+        "createdAt": "2022-01-13T17:09:21.928Z",
+        "updatedAt": "2022-02-28T20:35:49.621Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 18,
+        "publishedAt": "2022-02-28T20:35:49.621Z",
+        "firstPublishedAt": "2022-01-13T17:12:02.733Z",
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "4SDtqAl8Y6iEC5454bbsbU"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "4SDtqAl8Y6iEC5454bbsbU"
+          }
+        },
+        "publishedCounter": 4,
+        "version": 19,
+        "publishedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "4SDtqAl8Y6iEC5454bbsbU"
+          }
+        }
+      },
+      "fields": {
+        "title": {
+          "en-US": "Storm Icon"
+        },
+        "file": {
+          "en-US": {
+            "url": "//images.ctfassets.net/p39nycxzit31/1HICYZjLGX3we5MC3TD5uf/f80ab10e094a7b7367c8afbe90a1b5b5/Product_SuperApp__Inverted_false__Size_Large.png",
+            "details": {
+              "size": 4404,
+              "image": {
+                "width": 192,
+                "height": 192
+              }
+            },
+            "fileName": "Product=SuperApp, Inverted=false, Size=Large.png",
+            "contentType": "image/png"
+          }
+        }
+      }
+    },
+    {
+      "metadata": {
+        "tags": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "p39nycxzit31"
+          }
+        },
+        "id": "3E4AFvWEN1tvgt2yzDqbBA",
+        "type": "Asset",
+        "createdAt": "2022-01-13T17:09:21.933Z",
+        "updatedAt": "2022-02-28T20:36:36.660Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 17,
+        "publishedAt": "2022-02-28T20:36:36.660Z",
+        "firstPublishedAt": "2022-01-13T17:10:37.060Z",
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "4SDtqAl8Y6iEC5454bbsbU"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "4SDtqAl8Y6iEC5454bbsbU"
+          }
+        },
+        "publishedCounter": 5,
+        "version": 18,
+        "publishedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "4SDtqAl8Y6iEC5454bbsbU"
+          }
+        }
+      },
+      "fields": {
+        "title": {
+          "en-US": "Pulse Icon Inverted"
+        },
+        "file": {
+          "en-US": {
+            "url": "//images.ctfassets.net/p39nycxzit31/3E4AFvWEN1tvgt2yzDqbBA/d87b061793d33b62f01fd3484ae7f74b/Product_AcmeTrack__Inverted_false__Size_Large.png",
+            "details": {
+              "size": 2552,
+              "image": {
+                "width": 192,
+                "height": 192
+              }
+            },
+            "fileName": "Product=AcmeTrack, Inverted=false, Size=Large.png",
+            "contentType": "image/png"
+          }
+        }
+      }
+    },
+    {
+      "metadata": {
+        "tags": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "p39nycxzit31"
+          }
+        },
+        "id": "1JSyvUW6IEcZPYdXZMJrjI",
+        "type": "Asset",
+        "createdAt": "2022-01-13T17:09:22.826Z",
+        "updatedAt": "2022-02-28T20:45:24.716Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 7,
+        "publishedAt": "2022-02-28T20:45:24.716Z",
+        "firstPublishedAt": "2022-01-13T17:11:10.690Z",
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "4SDtqAl8Y6iEC5454bbsbU"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "4SDtqAl8Y6iEC5454bbsbU"
+          }
+        },
+        "publishedCounter": 2,
+        "version": 8,
+        "publishedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "4SDtqAl8Y6iEC5454bbsbU"
+          }
+        }
+      },
+      "fields": {
+        "title": {
+          "en-US": "Pulse Icon"
+        },
+        "file": {
+          "en-US": {
+            "url": "//images.ctfassets.net/p39nycxzit31/1JSyvUW6IEcZPYdXZMJrjI/638f87f392383b87f37e7741155fd199/Property_1_activity.png",
+            "details": {
+              "size": 903,
+              "image": {
+                "width": 72,
+                "height": 72
+              }
+            },
+            "fileName": "Property 1=activity.png",
+            "contentType": "image/png"
+          }
+        }
+      }
+    },
+    {
+      "metadata": {
+        "tags": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "p39nycxzit31"
+          }
+        },
+        "id": "6rPED2BkqOSXGnCMm3Avg5",
+        "type": "Asset",
+        "createdAt": "2022-01-13T17:09:22.851Z",
+        "updatedAt": "2022-02-28T18:07:42.132Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 15,
+        "publishedAt": "2022-02-28T18:07:42.132Z",
+        "firstPublishedAt": "2022-01-13T17:10:58.454Z",
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "4SDtqAl8Y6iEC5454bbsbU"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "4SDtqAl8Y6iEC5454bbsbU"
+          }
+        },
+        "publishedCounter": 4,
+        "version": 16,
+        "publishedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "4SDtqAl8Y6iEC5454bbsbU"
+          }
+        }
+      },
+      "fields": {
+        "title": {
+          "en-US": "Avatar"
+        },
+        "file": {
+          "en-US": {
+            "url": "//images.ctfassets.net/p39nycxzit31/6rPED2BkqOSXGnCMm3Avg5/9417099a20bdc65fb1f45261342a6ad4/Property_1_Default.png",
+            "details": {
+              "size": 27550,
+              "image": {
+                "width": 144,
+                "height": 144
+              }
+            },
+            "fileName": "Property 1=Default.png",
+            "contentType": "image/png"
+          }
+        }
+      }
+    },
+    {
+      "metadata": {
+        "tags": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "p39nycxzit31"
+          }
+        },
+        "id": "19n5p9BFjcCGQ6tIkdosao",
+        "type": "Asset",
+        "createdAt": "2022-01-13T17:13:22.611Z",
+        "updatedAt": "2022-02-28T17:29:29.618Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 26,
+        "publishedAt": "2022-02-28T17:29:29.618Z",
+        "firstPublishedAt": "2022-01-13T17:13:54.562Z",
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "4SDtqAl8Y6iEC5454bbsbU"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "4SDtqAl8Y6iEC5454bbsbU"
+          }
+        },
+        "publishedCounter": 6,
+        "version": 27,
+        "publishedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "4SDtqAl8Y6iEC5454bbsbU"
+          }
+        }
+      },
+      "fields": {
+        "title": {
+          "en-US": "Foobank Logo"
+        },
+        "file": {
+          "en-US": {
+            "url": "//images.ctfassets.net/p39nycxzit31/19n5p9BFjcCGQ6tIkdosao/3d351ea52a36ad5a80c886f780fdc5d7/Property_1_Foobank.png",
+            "details": {
+              "size": 5226,
               "image": {
                 "width": 384,
                 "height": 96
               }
             },
-            "fileName": "Property 1=Chatter.png",
+            "fileName": "Property 1=Foobank.png",
+            "contentType": "image/png"
+          }
+        }
+      }
+    },
+    {
+      "metadata": {
+        "tags": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "p39nycxzit31"
+          }
+        },
+        "id": "5ekeGJZAc9K0NoxenTtvos",
+        "type": "Asset",
+        "createdAt": "2022-01-13T17:13:22.613Z",
+        "updatedAt": "2022-02-28T17:29:42.769Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 21,
+        "publishedAt": "2022-02-28T17:29:42.769Z",
+        "firstPublishedAt": "2022-01-13T17:14:17.531Z",
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "4SDtqAl8Y6iEC5454bbsbU"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "4SDtqAl8Y6iEC5454bbsbU"
+          }
+        },
+        "publishedCounter": 6,
+        "version": 22,
+        "publishedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "4SDtqAl8Y6iEC5454bbsbU"
+          }
+        }
+      },
+      "fields": {
+        "title": {
+          "en-US": "Deezii Logo"
+        },
+        "file": {
+          "en-US": {
+            "url": "//images.ctfassets.net/p39nycxzit31/5ekeGJZAc9K0NoxenTtvos/aa6266f5c7160857b9a71f6b85a0614f/Property_1_Deezii.png",
+            "details": {
+              "size": 3474,
+              "image": {
+                "width": 384,
+                "height": 96
+              }
+            },
+            "fileName": "Property 1=Deezii.png",
+            "contentType": "image/png"
+          }
+        }
+      }
+    },
+    {
+      "metadata": {
+        "tags": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "p39nycxzit31"
+          }
+        },
+        "id": "FUKEhfTLAag2fYhJTNbwT",
+        "type": "Asset",
+        "createdAt": "2022-01-13T17:13:22.625Z",
+        "updatedAt": "2022-02-28T17:29:58.490Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 29,
+        "publishedAt": "2022-02-28T17:29:58.490Z",
+        "firstPublishedAt": "2022-01-13T17:13:44.871Z",
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "4SDtqAl8Y6iEC5454bbsbU"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "4SDtqAl8Y6iEC5454bbsbU"
+          }
+        },
+        "publishedCounter": 8,
+        "version": 30,
+        "publishedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "4SDtqAl8Y6iEC5454bbsbU"
+          }
+        }
+      },
+      "fields": {
+        "title": {
+          "en-US": "Circuitzz Logo"
+        },
+        "file": {
+          "en-US": {
+            "url": "//images.ctfassets.net/p39nycxzit31/FUKEhfTLAag2fYhJTNbwT/594d2cc50e6f72f3edd01e54dcd143c5/Property_1_Circuitz.png",
+            "details": {
+              "size": 3733,
+              "image": {
+                "width": 384,
+                "height": 96
+              }
+            },
+            "fileName": "Property 1=Circuitz.png",
+            "contentType": "image/png"
+          }
+        }
+      }
+    },
+    {
+      "metadata": {
+        "tags": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "p39nycxzit31"
+          }
+        },
+        "id": "6o5bLV5MSbjzOVaQvS54xf",
+        "type": "Asset",
+        "createdAt": "2022-01-13T17:13:22.632Z",
+        "updatedAt": "2022-02-28T17:30:14.031Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 25,
+        "publishedAt": "2022-02-28T17:30:14.031Z",
+        "firstPublishedAt": "2022-01-13T17:14:03.232Z",
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "4SDtqAl8Y6iEC5454bbsbU"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "4SDtqAl8Y6iEC5454bbsbU"
+          }
+        },
+        "publishedCounter": 7,
+        "version": 26,
+        "publishedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "4SDtqAl8Y6iEC5454bbsbU"
+          }
+        }
+      },
+      "fields": {
+        "title": {
+          "en-US": "Funtendo Logo"
+        },
+        "file": {
+          "en-US": {
+            "url": "//images.ctfassets.net/p39nycxzit31/6o5bLV5MSbjzOVaQvS54xf/f555393942719c117898d543f72eb5bf/Property_1_Funtendo.png",
+            "details": {
+              "size": 4406,
+              "image": {
+                "width": 384,
+                "height": 96
+              }
+            },
+            "fileName": "Property 1=Funtendo.png",
+            "contentType": "image/png"
+          }
+        }
+      }
+    },
+    {
+      "metadata": {
+        "tags": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "p39nycxzit31"
+          }
+        },
+        "id": "1TvrEUabcbAJWIymVccgcw",
+        "type": "Asset",
+        "createdAt": "2022-01-13T17:13:22.675Z",
+        "updatedAt": "2022-02-28T17:29:13.923Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 26,
+        "publishedAt": "2022-02-28T17:29:13.923Z",
+        "firstPublishedAt": "2022-01-13T17:14:30.587Z",
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "4SDtqAl8Y6iEC5454bbsbU"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "4SDtqAl8Y6iEC5454bbsbU"
+          }
+        },
+        "publishedCounter": 6,
+        "version": 27,
+        "publishedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "4SDtqAl8Y6iEC5454bbsbU"
+          }
+        }
+      },
+      "fields": {
+        "title": {
+          "en-US": "Chattr Logo"
+        },
+        "file": {
+          "en-US": {
+            "url": "//images.ctfassets.net/p39nycxzit31/1TvrEUabcbAJWIymVccgcw/3dfbeda1aaf1afad30b0e794e285b040/Property_1_Chattr.png",
+            "details": {
+              "size": 4421,
+              "image": {
+                "width": 384,
+                "height": 96
+              }
+            },
+            "fileName": "Property 1=Chattr.png",
             "contentType": "image/png"
           }
         }
@@ -19747,7 +19747,7 @@
         "id": "1GdlUMMxG3EvGDBA1RFG7J",
         "type": "Asset",
         "createdAt": "2022-01-24T20:22:43.031Z",
-        "updatedAt": "2022-01-24T20:25:15.938Z",
+        "updatedAt": "2022-02-28T17:24:23.924Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -19755,8 +19755,8 @@
             "linkType": "Environment"
           }
         },
-        "publishedVersion": 4,
-        "publishedAt": "2022-01-24T20:25:15.938Z",
+        "publishedVersion": 8,
+        "publishedAt": "2022-02-28T17:24:23.924Z",
         "firstPublishedAt": "2022-01-24T20:25:15.938Z",
         "createdBy": {
           "sys": {
@@ -19772,8 +19772,8 @@
             "id": "4SDtqAl8Y6iEC5454bbsbU"
           }
         },
-        "publishedCounter": 1,
-        "version": 5,
+        "publishedCounter": 2,
+        "version": 9,
         "publishedBy": {
           "sys": {
             "type": "Link",
@@ -19788,15 +19788,15 @@
         },
         "file": {
           "en-US": {
-            "url": "//images.ctfassets.net/p39nycxzit31/1GdlUMMxG3EvGDBA1RFG7J/ff623c19bdf115ad90b99ba80a5a7eed/falling-down.png",
+            "url": "//images.ctfassets.net/p39nycxzit31/1GdlUMMxG3EvGDBA1RFG7J/b382729a659dc71c7dc368839b5013ad/Floating.png",
             "details": {
-              "size": 66748,
+              "size": 187402,
               "image": {
-                "width": 2432,
-                "height": 736
+                "width": 4864,
+                "height": 2076
               }
             },
-            "fileName": "falling-down.png",
+            "fileName": "Floating.png",
             "contentType": "image/png"
           }
         }
@@ -19817,7 +19817,7 @@
         "id": "p5nxvCEByI98PeWCgVbwg",
         "type": "Asset",
         "createdAt": "2022-01-24T20:22:43.035Z",
-        "updatedAt": "2022-01-24T20:23:14.811Z",
+        "updatedAt": "2022-02-28T20:44:27.964Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -19825,8 +19825,8 @@
             "linkType": "Environment"
           }
         },
-        "publishedVersion": 4,
-        "publishedAt": "2022-01-24T20:23:14.811Z",
+        "publishedVersion": 8,
+        "publishedAt": "2022-02-28T20:44:27.964Z",
         "firstPublishedAt": "2022-01-24T20:23:14.811Z",
         "createdBy": {
           "sys": {
@@ -19842,8 +19842,8 @@
             "id": "4SDtqAl8Y6iEC5454bbsbU"
           }
         },
-        "publishedCounter": 1,
-        "version": 5,
+        "publishedCounter": 2,
+        "version": 9,
         "publishedBy": {
           "sys": {
             "type": "Link",
@@ -19858,15 +19858,15 @@
         },
         "file": {
           "en-US": {
-            "url": "//images.ctfassets.net/p39nycxzit31/p5nxvCEByI98PeWCgVbwg/d987ed08f6bef77366e2b1d3c1323d80/hero.png",
+            "url": "//images.ctfassets.net/p39nycxzit31/p5nxvCEByI98PeWCgVbwg/73a0c21cae99a96d1851f4db940864dd/Hero.png",
             "details": {
-              "size": 124903,
+              "size": 170207,
               "image": {
-                "width": 1776,
-                "height": 1353
+                "width": 2368,
+                "height": 1776
               }
             },
-            "fileName": "hero.png",
+            "fileName": "Hero.png",
             "contentType": "image/png"
           }
         }
@@ -19887,7 +19887,7 @@
         "id": "5qFIlp4Bnz120KKUwjn4nr",
         "type": "Asset",
         "createdAt": "2022-01-24T20:22:43.040Z",
-        "updatedAt": "2022-01-24T20:24:05.577Z",
+        "updatedAt": "2022-02-28T17:22:02.865Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -19895,8 +19895,8 @@
             "linkType": "Environment"
           }
         },
-        "publishedVersion": 4,
-        "publishedAt": "2022-01-24T20:24:05.577Z",
+        "publishedVersion": 12,
+        "publishedAt": "2022-02-28T17:22:02.865Z",
         "firstPublishedAt": "2022-01-24T20:24:05.577Z",
         "createdBy": {
           "sys": {
@@ -19912,8 +19912,8 @@
             "id": "4SDtqAl8Y6iEC5454bbsbU"
           }
         },
-        "publishedCounter": 1,
-        "version": 5,
+        "publishedCounter": 3,
+        "version": 13,
         "publishedBy": {
           "sys": {
             "type": "Link",
@@ -19928,15 +19928,15 @@
         },
         "file": {
           "en-US": {
-            "url": "//images.ctfassets.net/p39nycxzit31/5qFIlp4Bnz120KKUwjn4nr/b9cb20768cb3f0bce57a9bc3a7bf91a9/WIP_VR_googles_users_x2.png",
+            "url": "//images.ctfassets.net/p39nycxzit31/5qFIlp4Bnz120KKUwjn4nr/6eb13eb176d13189ab2dc73fbca547af/VR_XP_x2.png",
             "details": {
-              "size": 130072,
+              "size": 163371,
               "image": {
-                "width": 1776,
-                "height": 1185
+                "width": 2368,
+                "height": 1776
               }
             },
-            "fileName": "WIP VR googles users x2.png",
+            "fileName": "VR XP x2.png",
             "contentType": "image/png"
           }
         }
@@ -19957,7 +19957,7 @@
         "id": "3s8zSyTv5UipZbad2MpfX8",
         "type": "Asset",
         "createdAt": "2022-01-24T20:22:43.064Z",
-        "updatedAt": "2022-01-24T20:23:50.564Z",
+        "updatedAt": "2022-02-28T17:24:42.565Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -19965,8 +19965,8 @@
             "linkType": "Environment"
           }
         },
-        "publishedVersion": 3,
-        "publishedAt": "2022-01-24T20:23:50.564Z",
+        "publishedVersion": 7,
+        "publishedAt": "2022-02-28T17:24:42.565Z",
         "firstPublishedAt": "2022-01-24T20:23:50.564Z",
         "createdBy": {
           "sys": {
@@ -19982,8 +19982,8 @@
             "id": "4SDtqAl8Y6iEC5454bbsbU"
           }
         },
-        "publishedCounter": 1,
-        "version": 4,
+        "publishedCounter": 2,
+        "version": 8,
         "publishedBy": {
           "sys": {
             "type": "Link",
@@ -19998,15 +19998,15 @@
         },
         "file": {
           "en-US": {
-            "url": "//images.ctfassets.net/p39nycxzit31/3s8zSyTv5UipZbad2MpfX8/4127d3bc3aca1bce950dc7ce87426cc1/runner.png",
+            "url": "//images.ctfassets.net/p39nycxzit31/3s8zSyTv5UipZbad2MpfX8/4f8411ed253d4bbcbcdf426d36346133/Runner.png",
             "details": {
-              "size": 94356,
+              "size": 125046,
               "image": {
-                "width": 1776,
-                "height": 1314
+                "width": 2368,
+                "height": 1776
               }
             },
-            "fileName": "runner.png",
+            "fileName": "Runner.png",
             "contentType": "image/png"
           }
         }
@@ -20027,7 +20027,7 @@
         "id": "3aKwfUnXCTuL66a7SFI5vh",
         "type": "Asset",
         "createdAt": "2022-01-24T20:22:43.068Z",
-        "updatedAt": "2022-01-24T20:23:38.676Z",
+        "updatedAt": "2022-02-28T20:44:07.275Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -20035,8 +20035,8 @@
             "linkType": "Environment"
           }
         },
-        "publishedVersion": 5,
-        "publishedAt": "2022-01-24T20:23:38.676Z",
+        "publishedVersion": 9,
+        "publishedAt": "2022-02-28T20:44:07.275Z",
         "firstPublishedAt": "2022-01-24T20:23:38.676Z",
         "createdBy": {
           "sys": {
@@ -20052,8 +20052,8 @@
             "id": "4SDtqAl8Y6iEC5454bbsbU"
           }
         },
-        "publishedCounter": 1,
-        "version": 6,
+        "publishedCounter": 2,
+        "version": 10,
         "publishedBy": {
           "sys": {
             "type": "Link",
@@ -20068,15 +20068,15 @@
         },
         "file": {
           "en-US": {
-            "url": "//images.ctfassets.net/p39nycxzit31/3aKwfUnXCTuL66a7SFI5vh/46c9f020fc176d802cbdf3e660391885/vr.png",
+            "url": "//images.ctfassets.net/p39nycxzit31/3aKwfUnXCTuL66a7SFI5vh/b3316146dd09e5dc35fd5cc2ed21f0e0/Developer.png",
             "details": {
-              "size": 157163,
+              "size": 168287,
               "image": {
-                "width": 1776,
-                "height": 1368
+                "width": 2368,
+                "height": 1776
               }
             },
-            "fileName": "vr.png",
+            "fileName": "Developer.png",
             "contentType": "image/png"
           }
         }
@@ -20097,7 +20097,7 @@
         "id": "7nCV7i4NBQYcINf8sW3d25",
         "type": "Asset",
         "createdAt": "2022-02-02T16:20:37.846Z",
-        "updatedAt": "2022-02-09T16:24:06.707Z",
+        "updatedAt": "2022-03-01T23:31:23.131Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -20105,8 +20105,8 @@
             "linkType": "Environment"
           }
         },
-        "publishedVersion": 11,
-        "publishedAt": "2022-02-09T16:24:06.707Z",
+        "publishedVersion": 15,
+        "publishedAt": "2022-03-01T23:31:23.131Z",
         "firstPublishedAt": "2022-02-02T16:21:53.124Z",
         "createdBy": {
           "sys": {
@@ -20122,8 +20122,8 @@
             "id": "4SDtqAl8Y6iEC5454bbsbU"
           }
         },
-        "publishedCounter": 2,
-        "version": 12,
+        "publishedCounter": 3,
+        "version": 16,
         "publishedBy": {
           "sys": {
             "type": "Link",
@@ -20141,15 +20141,15 @@
         },
         "file": {
           "en-US": {
-            "url": "//images.ctfassets.net/p39nycxzit31/7nCV7i4NBQYcINf8sW3d25/64b4bfb1b0cb6d9b22ec0cbeb5db64cb/about-contentful.png",
+            "url": "//images.ctfassets.net/p39nycxzit31/7nCV7i4NBQYcINf8sW3d25/1301e1e49a9231e4a50363b4b0e2cf9e/Fixed_aspect_ratio_cover.png",
             "details": {
-              "size": 12394158,
+              "size": 6302663,
               "image": {
-                "width": 4320,
-                "height": 2430
+                "width": 2880,
+                "height": 1621
               }
             },
-            "fileName": "about-contentful.png",
+            "fileName": "Fixed aspect ratio cover.png",
             "contentType": "image/png"
           }
         }
@@ -20170,7 +20170,7 @@
         "id": "6DJgoaH1TSAoqCEwLd43mo",
         "type": "Asset",
         "createdAt": "2022-02-03T20:48:19.424Z",
-        "updatedAt": "2022-02-03T21:14:45.610Z",
+        "updatedAt": "2022-02-28T20:43:33.417Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -20178,8 +20178,8 @@
             "linkType": "Environment"
           }
         },
-        "publishedVersion": 11,
-        "publishedAt": "2022-02-03T21:14:45.610Z",
+        "publishedVersion": 15,
+        "publishedAt": "2022-02-28T20:43:33.417Z",
         "firstPublishedAt": "2022-02-03T20:48:37.474Z",
         "createdBy": {
           "sys": {
@@ -20195,8 +20195,8 @@
             "id": "4SDtqAl8Y6iEC5454bbsbU"
           }
         },
-        "publishedCounter": 3,
-        "version": 12,
+        "publishedCounter": 4,
+        "version": 16,
         "publishedBy": {
           "sys": {
             "type": "Link",
@@ -20214,15 +20214,15 @@
         },
         "file": {
           "en-US": {
-            "url": "//images.ctfassets.net/p39nycxzit31/6DJgoaH1TSAoqCEwLd43mo/15173e7af8262165ef514299ef9493c4/heart.png",
+            "url": "//images.ctfassets.net/p39nycxzit31/6DJgoaH1TSAoqCEwLd43mo/4d12766faecf987b3d6f95efcca9ea33/Property_1_heart.png",
             "details": {
-              "size": 1419,
+              "size": 1425,
               "image": {
                 "width": 72,
                 "height": 72
               }
             },
-            "fileName": "heart.png",
+            "fileName": "Property 1=heart.png",
             "contentType": "image/png"
           }
         }
@@ -20243,226 +20243,7 @@
         "id": "2luqFU3b5iK4zyrXYN81Nf",
         "type": "Asset",
         "createdAt": "2022-02-03T20:48:54.436Z",
-        "updatedAt": "2022-02-03T21:15:04.375Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 7,
-        "publishedAt": "2022-02-03T21:15:04.375Z",
-        "firstPublishedAt": "2022-02-03T20:49:04.773Z",
-        "createdBy": {
-          "sys": {
-            "type": "Link",
-            "linkType": "User",
-            "id": "4SDtqAl8Y6iEC5454bbsbU"
-          }
-        },
-        "updatedBy": {
-          "sys": {
-            "type": "Link",
-            "linkType": "User",
-            "id": "4SDtqAl8Y6iEC5454bbsbU"
-          }
-        },
-        "publishedCounter": 2,
-        "version": 8,
-        "publishedBy": {
-          "sys": {
-            "type": "Link",
-            "linkType": "User",
-            "id": "4SDtqAl8Y6iEC5454bbsbU"
-          }
-        }
-      },
-      "fields": {
-        "title": {
-          "en-US": "umbrella"
-        },
-        "description": {
-          "en-US": ""
-        },
-        "file": {
-          "en-US": {
-            "url": "//images.ctfassets.net/p39nycxzit31/2luqFU3b5iK4zyrXYN81Nf/a0cbc430e7e26ba1a3be467165663021/umbrella.png",
-            "details": {
-              "size": 1395,
-              "image": {
-                "width": 72,
-                "height": 72
-              }
-            },
-            "fileName": "umbrella.png",
-            "contentType": "image/png"
-          }
-        }
-      }
-    },
-    {
-      "metadata": {
-        "tags": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "p39nycxzit31"
-          }
-        },
-        "id": "37zIn7p0Ojc2rgyGaX3CI",
-        "type": "Asset",
-        "createdAt": "2022-02-03T20:49:49.130Z",
-        "updatedAt": "2022-02-03T21:15:22.993Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 7,
-        "publishedAt": "2022-02-03T21:15:22.993Z",
-        "firstPublishedAt": "2022-02-03T20:49:58.115Z",
-        "createdBy": {
-          "sys": {
-            "type": "Link",
-            "linkType": "User",
-            "id": "4SDtqAl8Y6iEC5454bbsbU"
-          }
-        },
-        "updatedBy": {
-          "sys": {
-            "type": "Link",
-            "linkType": "User",
-            "id": "4SDtqAl8Y6iEC5454bbsbU"
-          }
-        },
-        "publishedCounter": 2,
-        "version": 8,
-        "publishedBy": {
-          "sys": {
-            "type": "Link",
-            "linkType": "User",
-            "id": "4SDtqAl8Y6iEC5454bbsbU"
-          }
-        }
-      },
-      "fields": {
-        "title": {
-          "en-US": "lightning"
-        },
-        "description": {
-          "en-US": ""
-        },
-        "file": {
-          "en-US": {
-            "url": "//images.ctfassets.net/p39nycxzit31/37zIn7p0Ojc2rgyGaX3CI/8519a3c6d615c82344dd5734adcff3c4/lightning.png",
-            "details": {
-              "size": 1076,
-              "image": {
-                "width": 72,
-                "height": 72
-              }
-            },
-            "fileName": "lightning.png",
-            "contentType": "image/png"
-          }
-        }
-      }
-    },
-    {
-      "metadata": {
-        "tags": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "p39nycxzit31"
-          }
-        },
-        "id": "5johWbdkCZnVpRjE3cdbFE",
-        "type": "Asset",
-        "createdAt": "2022-02-03T20:50:35.882Z",
-        "updatedAt": "2022-02-03T21:15:41.059Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 7,
-        "publishedAt": "2022-02-03T21:15:41.059Z",
-        "firstPublishedAt": "2022-02-03T20:50:45.985Z",
-        "createdBy": {
-          "sys": {
-            "type": "Link",
-            "linkType": "User",
-            "id": "4SDtqAl8Y6iEC5454bbsbU"
-          }
-        },
-        "updatedBy": {
-          "sys": {
-            "type": "Link",
-            "linkType": "User",
-            "id": "4SDtqAl8Y6iEC5454bbsbU"
-          }
-        },
-        "publishedCounter": 2,
-        "version": 8,
-        "publishedBy": {
-          "sys": {
-            "type": "Link",
-            "linkType": "User",
-            "id": "4SDtqAl8Y6iEC5454bbsbU"
-          }
-        }
-      },
-      "fields": {
-        "title": {
-          "en-US": "anchor"
-        },
-        "description": {
-          "en-US": ""
-        },
-        "file": {
-          "en-US": {
-            "url": "//images.ctfassets.net/p39nycxzit31/5johWbdkCZnVpRjE3cdbFE/e17a365ce642fca82d2c60b44823d274/anchor.png",
-            "details": {
-              "size": 1577,
-              "image": {
-                "width": 72,
-                "height": 72
-              }
-            },
-            "fileName": "anchor.png",
-            "contentType": "image/png"
-          }
-        }
-      }
-    },
-    {
-      "metadata": {
-        "tags": []
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "p39nycxzit31"
-          }
-        },
-        "id": "13qttL5LmvuF1Fyob5PysZ",
-        "type": "Asset",
-        "createdAt": "2022-02-03T20:51:04.481Z",
-        "updatedAt": "2022-02-03T21:30:39.116Z",
+        "updatedAt": "2022-02-28T20:43:18.866Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -20471,8 +20252,8 @@
           }
         },
         "publishedVersion": 11,
-        "publishedAt": "2022-02-03T21:30:39.116Z",
-        "firstPublishedAt": "2022-02-03T20:51:14.355Z",
+        "publishedAt": "2022-02-28T20:43:18.866Z",
+        "firstPublishedAt": "2022-02-03T20:49:04.773Z",
         "createdBy": {
           "sys": {
             "type": "Link",
@@ -20499,6 +20280,225 @@
       },
       "fields": {
         "title": {
+          "en-US": "umbrella"
+        },
+        "description": {
+          "en-US": ""
+        },
+        "file": {
+          "en-US": {
+            "url": "//images.ctfassets.net/p39nycxzit31/2luqFU3b5iK4zyrXYN81Nf/51154735275b615fd2410749338524bd/Property_1_umbrella.png",
+            "details": {
+              "size": 1406,
+              "image": {
+                "width": 72,
+                "height": 72
+              }
+            },
+            "fileName": "Property 1=umbrella.png",
+            "contentType": "image/png"
+          }
+        }
+      }
+    },
+    {
+      "metadata": {
+        "tags": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "p39nycxzit31"
+          }
+        },
+        "id": "37zIn7p0Ojc2rgyGaX3CI",
+        "type": "Asset",
+        "createdAt": "2022-02-03T20:49:49.130Z",
+        "updatedAt": "2022-02-28T20:43:00.870Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 11,
+        "publishedAt": "2022-02-28T20:43:00.870Z",
+        "firstPublishedAt": "2022-02-03T20:49:58.115Z",
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "4SDtqAl8Y6iEC5454bbsbU"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "4SDtqAl8Y6iEC5454bbsbU"
+          }
+        },
+        "publishedCounter": 3,
+        "version": 12,
+        "publishedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "4SDtqAl8Y6iEC5454bbsbU"
+          }
+        }
+      },
+      "fields": {
+        "title": {
+          "en-US": "lightning"
+        },
+        "description": {
+          "en-US": ""
+        },
+        "file": {
+          "en-US": {
+            "url": "//images.ctfassets.net/p39nycxzit31/37zIn7p0Ojc2rgyGaX3CI/921b17137e46c86c5bfe950c6eb2c5b9/Property_1_zap.png",
+            "details": {
+              "size": 1074,
+              "image": {
+                "width": 72,
+                "height": 72
+              }
+            },
+            "fileName": "Property 1=zap.png",
+            "contentType": "image/png"
+          }
+        }
+      }
+    },
+    {
+      "metadata": {
+        "tags": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "p39nycxzit31"
+          }
+        },
+        "id": "5johWbdkCZnVpRjE3cdbFE",
+        "type": "Asset",
+        "createdAt": "2022-02-03T20:50:35.882Z",
+        "updatedAt": "2022-02-28T20:42:38.878Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 11,
+        "publishedAt": "2022-02-28T20:42:38.878Z",
+        "firstPublishedAt": "2022-02-03T20:50:45.985Z",
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "4SDtqAl8Y6iEC5454bbsbU"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "4SDtqAl8Y6iEC5454bbsbU"
+          }
+        },
+        "publishedCounter": 3,
+        "version": 12,
+        "publishedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "4SDtqAl8Y6iEC5454bbsbU"
+          }
+        }
+      },
+      "fields": {
+        "title": {
+          "en-US": "anchor"
+        },
+        "description": {
+          "en-US": ""
+        },
+        "file": {
+          "en-US": {
+            "url": "//images.ctfassets.net/p39nycxzit31/5johWbdkCZnVpRjE3cdbFE/1ba979594776464ec2bcc75f2df8eef9/Property_1_anchor.png",
+            "details": {
+              "size": 1577,
+              "image": {
+                "width": 72,
+                "height": 72
+              }
+            },
+            "fileName": "Property 1=anchor.png",
+            "contentType": "image/png"
+          }
+        }
+      }
+    },
+    {
+      "metadata": {
+        "tags": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "p39nycxzit31"
+          }
+        },
+        "id": "13qttL5LmvuF1Fyob5PysZ",
+        "type": "Asset",
+        "createdAt": "2022-02-03T20:51:04.481Z",
+        "updatedAt": "2022-02-28T20:42:18.970Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 15,
+        "publishedAt": "2022-02-28T20:42:18.970Z",
+        "firstPublishedAt": "2022-02-03T20:51:14.355Z",
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "4SDtqAl8Y6iEC5454bbsbU"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "4SDtqAl8Y6iEC5454bbsbU"
+          }
+        },
+        "publishedCounter": 4,
+        "version": 16,
+        "publishedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "4SDtqAl8Y6iEC5454bbsbU"
+          }
+        }
+      },
+      "fields": {
+        "title": {
           "en-US": "smiley"
         },
         "description": {
@@ -20506,15 +20506,15 @@
         },
         "file": {
           "en-US": {
-            "url": "//images.ctfassets.net/p39nycxzit31/13qttL5LmvuF1Fyob5PysZ/80557bbdba53bac3904f90876b21cf37/smiley.png",
+            "url": "//images.ctfassets.net/p39nycxzit31/13qttL5LmvuF1Fyob5PysZ/5cb4379142dccd0a97f8089b0d1b9c06/Property_1_smile.png",
             "details": {
-              "size": 1955,
+              "size": 1956,
               "image": {
                 "width": 72,
                 "height": 72
               }
             },
-            "fileName": "smiley.png",
+            "fileName": "Property 1=smile.png",
             "contentType": "image/png"
           }
         }
@@ -20535,7 +20535,7 @@
         "id": "6za35WgLgHx2zNeC1ajESh",
         "type": "Asset",
         "createdAt": "2022-02-03T20:51:22.182Z",
-        "updatedAt": "2022-02-03T21:30:57.920Z",
+        "updatedAt": "2022-02-28T20:32:57.757Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -20543,8 +20543,8 @@
             "linkType": "Environment"
           }
         },
-        "publishedVersion": 7,
-        "publishedAt": "2022-02-03T21:30:57.920Z",
+        "publishedVersion": 21,
+        "publishedAt": "2022-02-28T20:32:57.757Z",
         "firstPublishedAt": "2022-02-03T20:51:32.448Z",
         "createdBy": {
           "sys": {
@@ -20560,8 +20560,8 @@
             "id": "4SDtqAl8Y6iEC5454bbsbU"
           }
         },
-        "publishedCounter": 2,
-        "version": 8,
+        "publishedCounter": 4,
+        "version": 22,
         "publishedBy": {
           "sys": {
             "type": "Link",
@@ -20579,7 +20579,7 @@
         },
         "file": {
           "en-US": {
-            "url": "//images.ctfassets.net/p39nycxzit31/6za35WgLgHx2zNeC1ajESh/ea401a35040c5610869a0ff242d0a786/search.png",
+            "url": "//images.ctfassets.net/p39nycxzit31/6za35WgLgHx2zNeC1ajESh/de243b2d0eac1fa0e05ac2e0a8834cab/Property_1_search.png",
             "details": {
               "size": 1509,
               "image": {
@@ -20587,7 +20587,7 @@
                 "height": 72
               }
             },
-            "fileName": "search.png",
+            "fileName": "Property 1=search.png",
             "contentType": "image/png"
           }
         }
@@ -20608,7 +20608,7 @@
         "id": "5boa41st6eC2b0PqgWfUs9",
         "type": "Asset",
         "createdAt": "2022-02-07T17:44:50.442Z",
-        "updatedAt": "2022-02-07T17:45:12.802Z",
+        "updatedAt": "2022-02-28T20:41:59.693Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -20616,8 +20616,8 @@
             "linkType": "Environment"
           }
         },
-        "publishedVersion": 4,
-        "publishedAt": "2022-02-07T17:45:12.802Z",
+        "publishedVersion": 8,
+        "publishedAt": "2022-02-28T20:41:59.693Z",
         "firstPublishedAt": "2022-02-07T17:45:12.802Z",
         "createdBy": {
           "sys": {
@@ -20633,8 +20633,8 @@
             "id": "4SDtqAl8Y6iEC5454bbsbU"
           }
         },
-        "publishedCounter": 1,
-        "version": 5,
+        "publishedCounter": 2,
+        "version": 9,
         "publishedBy": {
           "sys": {
             "type": "Link",
@@ -20652,15 +20652,15 @@
         },
         "file": {
           "en-US": {
-            "url": "//images.ctfassets.net/p39nycxzit31/5boa41st6eC2b0PqgWfUs9/c78da1d4f77ee46bc659a5145bdd8af2/product-cloud.png",
+            "url": "//images.ctfassets.net/p39nycxzit31/5boa41st6eC2b0PqgWfUs9/1dba55f2996b108454ae7ba1ee63b631/Property_1_cloud-lightning.png",
             "details": {
-              "size": 2269,
+              "size": 1735,
               "image": {
-                "width": 96,
-                "height": 97
+                "width": 72,
+                "height": 72
               }
             },
-            "fileName": "product-cloud.png",
+            "fileName": "Property 1=cloud-lightning.png",
             "contentType": "image/png"
           }
         }
@@ -20681,7 +20681,7 @@
         "id": "2Z2ZG7TFI3eAEX72guhodx",
         "type": "Asset",
         "createdAt": "2022-02-07T20:16:42.577Z",
-        "updatedAt": "2022-02-07T20:17:13.034Z",
+        "updatedAt": "2022-02-28T20:34:07.501Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -20689,8 +20689,8 @@
             "linkType": "Environment"
           }
         },
-        "publishedVersion": 6,
-        "publishedAt": "2022-02-07T20:17:13.034Z",
+        "publishedVersion": 14,
+        "publishedAt": "2022-02-28T20:34:07.501Z",
         "firstPublishedAt": "2022-02-07T20:17:13.034Z",
         "createdBy": {
           "sys": {
@@ -20706,8 +20706,8 @@
             "id": "4SDtqAl8Y6iEC5454bbsbU"
           }
         },
-        "publishedCounter": 1,
-        "version": 7,
+        "publishedCounter": 3,
+        "version": 15,
         "publishedBy": {
           "sys": {
             "type": "Link",
@@ -20725,15 +20725,15 @@
         },
         "file": {
           "en-US": {
-            "url": "//images.ctfassets.net/p39nycxzit31/2Z2ZG7TFI3eAEX72guhodx/903515295d9dbe636e53bcb7e40c63fe/rounded-umbrella.png",
+            "url": "//images.ctfassets.net/p39nycxzit31/2Z2ZG7TFI3eAEX72guhodx/7b2dee1f80db3c2cf7c5868f6f4f9615/Product_HyperMarket__Inverted_true__Size_Large.png",
             "details": {
-              "size": 2137,
+              "size": 4642,
               "image": {
-                "width": 96,
-                "height": 97
+                "width": 192,
+                "height": 192
               }
             },
-            "fileName": "rounded-umbrella.png",
+            "fileName": "Product=HyperMarket, Inverted=true, Size=Large.png",
             "contentType": "image/png"
           }
         }
@@ -20754,7 +20754,7 @@
         "id": "1lKlCCRpixhScmeKRusZNO",
         "type": "Asset",
         "createdAt": "2022-02-07T20:17:27.959Z",
-        "updatedAt": "2022-02-07T20:17:54.519Z",
+        "updatedAt": "2022-02-28T20:34:28.370Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -20762,8 +20762,8 @@
             "linkType": "Environment"
           }
         },
-        "publishedVersion": 4,
-        "publishedAt": "2022-02-07T20:17:54.519Z",
+        "publishedVersion": 12,
+        "publishedAt": "2022-02-28T20:34:28.370Z",
         "firstPublishedAt": "2022-02-07T20:17:54.519Z",
         "createdBy": {
           "sys": {
@@ -20779,8 +20779,8 @@
             "id": "4SDtqAl8Y6iEC5454bbsbU"
           }
         },
-        "publishedCounter": 1,
-        "version": 5,
+        "publishedCounter": 3,
+        "version": 13,
         "publishedBy": {
           "sys": {
             "type": "Link",
@@ -20798,15 +20798,15 @@
         },
         "file": {
           "en-US": {
-            "url": "//images.ctfassets.net/p39nycxzit31/1lKlCCRpixhScmeKRusZNO/8da519afc160a558af25d7c3f8264036/hexagon-cloud.png",
+            "url": "//images.ctfassets.net/p39nycxzit31/1lKlCCRpixhScmeKRusZNO/46077a67f96c94d40b3d14bde9f64cc9/Product_SuperApp__Inverted_true__Size_Large.png",
             "details": {
-              "size": 2830,
+              "size": 4304,
               "image": {
-                "width": 128,
-                "height": 129
+                "width": 192,
+                "height": 192
               }
             },
-            "fileName": "hexagon-cloud.png",
+            "fileName": "Product=SuperApp, Inverted=true, Size=Large.png",
             "contentType": "image/png"
           }
         }
@@ -20827,7 +20827,7 @@
         "id": "77PniRIxCX7fMnrTNOLO0T",
         "type": "Asset",
         "createdAt": "2022-02-07T20:19:20.586Z",
-        "updatedAt": "2022-02-07T20:19:39.159Z",
+        "updatedAt": "2022-02-28T20:34:51.467Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -20835,8 +20835,8 @@
             "linkType": "Environment"
           }
         },
-        "publishedVersion": 4,
-        "publishedAt": "2022-02-07T20:19:39.159Z",
+        "publishedVersion": 12,
+        "publishedAt": "2022-02-28T20:34:51.467Z",
         "firstPublishedAt": "2022-02-07T20:19:39.159Z",
         "createdBy": {
           "sys": {
@@ -20852,8 +20852,8 @@
             "id": "4SDtqAl8Y6iEC5454bbsbU"
           }
         },
-        "publishedCounter": 1,
-        "version": 5,
+        "publishedCounter": 3,
+        "version": 13,
         "publishedBy": {
           "sys": {
             "type": "Link",
@@ -20871,15 +20871,15 @@
         },
         "file": {
           "en-US": {
-            "url": "//images.ctfassets.net/p39nycxzit31/77PniRIxCX7fMnrTNOLO0T/4be517965922cc046bda8d8b608e7311/square-pulse.png",
+            "url": "//images.ctfassets.net/p39nycxzit31/77PniRIxCX7fMnrTNOLO0T/f6defb6b9efff72c86f31af78c48dc31/Product_AcmeTrack__Inverted_true__Size_Large.png",
             "details": {
-              "size": 1324,
+              "size": 2550,
               "image": {
-                "width": 96,
-                "height": 97
+                "width": 192,
+                "height": 192
               }
             },
-            "fileName": "square-pulse.png",
+            "fileName": "Product=AcmeTrack, Inverted=true, Size=Large.png",
             "contentType": "image/png"
           }
         }
@@ -20900,7 +20900,7 @@
         "id": "729gQpXOSvsa959SOotz0g",
         "type": "Asset",
         "createdAt": "2022-02-08T14:49:44.102Z",
-        "updatedAt": "2022-02-08T14:50:01.686Z",
+        "updatedAt": "2022-02-28T20:41:37.518Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -20908,8 +20908,8 @@
             "linkType": "Environment"
           }
         },
-        "publishedVersion": 4,
-        "publishedAt": "2022-02-08T14:50:01.686Z",
+        "publishedVersion": 8,
+        "publishedAt": "2022-02-28T20:41:37.518Z",
         "firstPublishedAt": "2022-02-08T14:50:01.686Z",
         "createdBy": {
           "sys": {
@@ -20925,8 +20925,8 @@
             "id": "4SDtqAl8Y6iEC5454bbsbU"
           }
         },
-        "publishedCounter": 1,
-        "version": 5,
+        "publishedCounter": 2,
+        "version": 9,
         "publishedBy": {
           "sys": {
             "type": "Link",
@@ -20944,15 +20944,15 @@
         },
         "file": {
           "en-US": {
-            "url": "//images.ctfassets.net/p39nycxzit31/729gQpXOSvsa959SOotz0g/b81445066024b98768c3d244ed7d5cf0/right-arrow.svg",
+            "url": "//images.ctfassets.net/p39nycxzit31/729gQpXOSvsa959SOotz0g/08fb7359848de0ee99a98068152e8fd3/Property_1_chevron-right.svg",
             "details": {
-              "size": 220,
+              "size": 214,
               "image": {
-                "width": 25,
+                "width": 24,
                 "height": 24
               }
             },
-            "fileName": "right-arrow.svg",
+            "fileName": "Property 1=chevron-right.svg",
             "contentType": "image/svg+xml"
           }
         }
@@ -20973,7 +20973,7 @@
         "id": "3jwMPzNptR5bEV32rTjJI5",
         "type": "Asset",
         "createdAt": "2022-02-09T17:39:13.515Z",
-        "updatedAt": "2022-02-09T17:39:36.148Z",
+        "updatedAt": "2022-02-28T20:10:04.038Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -20981,8 +20981,8 @@
             "linkType": "Environment"
           }
         },
-        "publishedVersion": 4,
-        "publishedAt": "2022-02-09T17:39:36.148Z",
+        "publishedVersion": 8,
+        "publishedAt": "2022-02-28T20:10:04.038Z",
         "firstPublishedAt": "2022-02-09T17:39:36.148Z",
         "createdBy": {
           "sys": {
@@ -20998,8 +20998,8 @@
             "id": "4SDtqAl8Y6iEC5454bbsbU"
           }
         },
-        "publishedCounter": 1,
-        "version": 5,
+        "publishedCounter": 2,
+        "version": 9,
         "publishedBy": {
           "sys": {
             "type": "Link",
@@ -21017,15 +21017,15 @@
         },
         "file": {
           "en-US": {
-            "url": "//images.ctfassets.net/p39nycxzit31/3jwMPzNptR5bEV32rTjJI5/2811bc8f0f8d3c884b1783721186d84b/phoenix-baker-contentful.png",
+            "url": "//images.ctfassets.net/p39nycxzit31/3jwMPzNptR5bEV32rTjJI5/cdafe63ea671954bb7875df79809ebd2/Fixed_aspect_ratio_cover.png",
             "details": {
-              "size": 530143,
+              "size": 599264,
               "image": {
                 "width": 720,
                 "height": 720
               }
             },
-            "fileName": "phoenix-baker-contentful.png",
+            "fileName": "Fixed aspect ratio cover.png",
             "contentType": "image/png"
           }
         }
@@ -21046,7 +21046,7 @@
         "id": "36SInHlHl4fTXQoZVq539a",
         "type": "Asset",
         "createdAt": "2022-02-09T17:39:49.079Z",
-        "updatedAt": "2022-02-09T17:40:00.371Z",
+        "updatedAt": "2022-02-28T20:09:42.550Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -21054,8 +21054,8 @@
             "linkType": "Environment"
           }
         },
-        "publishedVersion": 4,
-        "publishedAt": "2022-02-09T17:40:00.371Z",
+        "publishedVersion": 8,
+        "publishedAt": "2022-02-28T20:09:42.550Z",
         "firstPublishedAt": "2022-02-09T17:40:00.371Z",
         "createdBy": {
           "sys": {
@@ -21071,8 +21071,8 @@
             "id": "4SDtqAl8Y6iEC5454bbsbU"
           }
         },
-        "publishedCounter": 1,
-        "version": 5,
+        "publishedCounter": 2,
+        "version": 9,
         "publishedBy": {
           "sys": {
             "type": "Link",
@@ -21090,15 +21090,15 @@
         },
         "file": {
           "en-US": {
-            "url": "//images.ctfassets.net/p39nycxzit31/36SInHlHl4fTXQoZVq539a/5235dd7dd9782c051b342e778f517e22/jermaine-hall-contentful.png",
+            "url": "//images.ctfassets.net/p39nycxzit31/36SInHlHl4fTXQoZVq539a/9075497c9c46729747eaf2a4e8becf2f/Fixed_aspect_ratio_cover-1.png",
             "details": {
-              "size": 398000,
+              "size": 441559,
               "image": {
                 "width": 720,
                 "height": 720
               }
             },
-            "fileName": "jermaine-hall-contentful.png",
+            "fileName": "Fixed aspect ratio cover-1.png",
             "contentType": "image/png"
           }
         }
@@ -21119,7 +21119,7 @@
         "id": "2o7TihlyIkjW1nVbFBGKdj",
         "type": "Asset",
         "createdAt": "2022-02-09T17:40:09.891Z",
-        "updatedAt": "2022-02-09T17:40:21.403Z",
+        "updatedAt": "2022-02-28T20:09:17.039Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -21127,8 +21127,8 @@
             "linkType": "Environment"
           }
         },
-        "publishedVersion": 4,
-        "publishedAt": "2022-02-09T17:40:21.403Z",
+        "publishedVersion": 8,
+        "publishedAt": "2022-02-28T20:09:17.039Z",
         "firstPublishedAt": "2022-02-09T17:40:21.403Z",
         "createdBy": {
           "sys": {
@@ -21144,8 +21144,8 @@
             "id": "4SDtqAl8Y6iEC5454bbsbU"
           }
         },
-        "publishedCounter": 1,
-        "version": 5,
+        "publishedCounter": 2,
+        "version": 9,
         "publishedBy": {
           "sys": {
             "type": "Link",
@@ -21163,15 +21163,15 @@
         },
         "file": {
           "en-US": {
-            "url": "//images.ctfassets.net/p39nycxzit31/2o7TihlyIkjW1nVbFBGKdj/91f9fc307a962c0aeedb4f64e4651f83/tam-seiko-contentful.png",
+            "url": "//images.ctfassets.net/p39nycxzit31/2o7TihlyIkjW1nVbFBGKdj/e6286c9e721f3775bf92557f50483327/Fixed_aspect_ratio_cover-2.png",
             "details": {
-              "size": 293911,
+              "size": 327789,
               "image": {
                 "width": 720,
                 "height": 720
               }
             },
-            "fileName": "tam-seiko-contentful.png",
+            "fileName": "Fixed aspect ratio cover-2.png",
             "contentType": "image/png"
           }
         }
@@ -21192,7 +21192,7 @@
         "id": "5EVs6Ds7FdtCJvw0GjBxHO",
         "type": "Asset",
         "createdAt": "2022-02-09T17:40:33.743Z",
-        "updatedAt": "2022-02-09T17:40:44.362Z",
+        "updatedAt": "2022-02-28T20:08:54.263Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -21200,8 +21200,8 @@
             "linkType": "Environment"
           }
         },
-        "publishedVersion": 4,
-        "publishedAt": "2022-02-09T17:40:44.362Z",
+        "publishedVersion": 8,
+        "publishedAt": "2022-02-28T20:08:54.263Z",
         "firstPublishedAt": "2022-02-09T17:40:44.362Z",
         "createdBy": {
           "sys": {
@@ -21217,8 +21217,8 @@
             "id": "4SDtqAl8Y6iEC5454bbsbU"
           }
         },
-        "publishedCounter": 1,
-        "version": 5,
+        "publishedCounter": 2,
+        "version": 9,
         "publishedBy": {
           "sys": {
             "type": "Link",
@@ -21236,15 +21236,15 @@
         },
         "file": {
           "en-US": {
-            "url": "//images.ctfassets.net/p39nycxzit31/5EVs6Ds7FdtCJvw0GjBxHO/55230eae5266c2320ecb077f9e9f81b9/drew-smith-contentful.png",
+            "url": "//images.ctfassets.net/p39nycxzit31/5EVs6Ds7FdtCJvw0GjBxHO/3a1d17240addebf12f1883561ffdfed7/Fixed_aspect_ratio_cover-3.png",
             "details": {
-              "size": 214443,
+              "size": 238012,
               "image": {
                 "width": 720,
                 "height": 720
               }
             },
-            "fileName": "drew-smith-contentful.png",
+            "fileName": "Fixed aspect ratio cover-3.png",
             "contentType": "image/png"
           }
         }
@@ -21265,7 +21265,7 @@
         "id": "5DwCWPkukf19FhrHTcpIJr",
         "type": "Asset",
         "createdAt": "2022-02-09T17:40:53.476Z",
-        "updatedAt": "2022-02-09T17:41:06.894Z",
+        "updatedAt": "2022-02-28T20:08:32.399Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -21273,8 +21273,8 @@
             "linkType": "Environment"
           }
         },
-        "publishedVersion": 4,
-        "publishedAt": "2022-02-09T17:41:06.894Z",
+        "publishedVersion": 8,
+        "publishedAt": "2022-02-28T20:08:32.399Z",
         "firstPublishedAt": "2022-02-09T17:41:06.894Z",
         "createdBy": {
           "sys": {
@@ -21290,8 +21290,8 @@
             "id": "4SDtqAl8Y6iEC5454bbsbU"
           }
         },
-        "publishedCounter": 1,
-        "version": 5,
+        "publishedCounter": 2,
+        "version": 9,
         "publishedBy": {
           "sys": {
             "type": "Link",
@@ -21309,15 +21309,15 @@
         },
         "file": {
           "en-US": {
-            "url": "//images.ctfassets.net/p39nycxzit31/5DwCWPkukf19FhrHTcpIJr/1a4501d6ed62c4e81838fe25bfe722f0/lana-steiner-contentful.png",
+            "url": "//images.ctfassets.net/p39nycxzit31/5DwCWPkukf19FhrHTcpIJr/f0eef4f46acaf7a8bc89ee4467a535ac/Fixed_aspect_ratio_cover-4.png",
             "details": {
-              "size": 329114,
+              "size": 363694,
               "image": {
                 "width": 720,
                 "height": 720
               }
             },
-            "fileName": "lana-steiner-contentful.png",
+            "fileName": "Fixed aspect ratio cover-4.png",
             "contentType": "image/png"
           }
         }
@@ -21338,7 +21338,7 @@
         "id": "NNg898VTuwbnld5ohcDdC",
         "type": "Asset",
         "createdAt": "2022-02-09T17:41:16.862Z",
-        "updatedAt": "2022-02-09T17:41:28.011Z",
+        "updatedAt": "2022-02-28T20:08:09.702Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -21346,8 +21346,8 @@
             "linkType": "Environment"
           }
         },
-        "publishedVersion": 4,
-        "publishedAt": "2022-02-09T17:41:28.011Z",
+        "publishedVersion": 8,
+        "publishedAt": "2022-02-28T20:08:09.702Z",
         "firstPublishedAt": "2022-02-09T17:41:28.011Z",
         "createdBy": {
           "sys": {
@@ -21363,8 +21363,8 @@
             "id": "4SDtqAl8Y6iEC5454bbsbU"
           }
         },
-        "publishedCounter": 1,
-        "version": 5,
+        "publishedCounter": 2,
+        "version": 9,
         "publishedBy": {
           "sys": {
             "type": "Link",
@@ -21382,15 +21382,15 @@
         },
         "file": {
           "en-US": {
-            "url": "//images.ctfassets.net/p39nycxzit31/NNg898VTuwbnld5ohcDdC/c3f753b0477b42becfd744c59f5d16d4/amy-hansen-contentful.png",
+            "url": "//images.ctfassets.net/p39nycxzit31/NNg898VTuwbnld5ohcDdC/3ac46b3b023c70b7412a60c4a630f8f3/Fixed_aspect_ratio_cover-5.png",
             "details": {
-              "size": 325688,
+              "size": 360972,
               "image": {
                 "width": 720,
                 "height": 720
               }
             },
-            "fileName": "amy-hansen-contentful.png",
+            "fileName": "Fixed aspect ratio cover-5.png",
             "contentType": "image/png"
           }
         }
@@ -21411,7 +21411,7 @@
         "id": "2NeXSSCyiXaBh82qjHqZJe",
         "type": "Asset",
         "createdAt": "2022-02-10T17:59:45.769Z",
-        "updatedAt": "2022-02-10T18:00:29.092Z",
+        "updatedAt": "2022-02-28T20:40:09.278Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -21419,8 +21419,8 @@
             "linkType": "Environment"
           }
         },
-        "publishedVersion": 5,
-        "publishedAt": "2022-02-10T18:00:29.092Z",
+        "publishedVersion": 9,
+        "publishedAt": "2022-02-28T20:40:09.278Z",
         "firstPublishedAt": "2022-02-10T18:00:29.092Z",
         "createdBy": {
           "sys": {
@@ -21436,8 +21436,8 @@
             "id": "4SDtqAl8Y6iEC5454bbsbU"
           }
         },
-        "publishedCounter": 1,
-        "version": 6,
+        "publishedCounter": 2,
+        "version": 10,
         "publishedBy": {
           "sys": {
             "type": "Link",
@@ -21455,15 +21455,15 @@
         },
         "file": {
           "en-US": {
-            "url": "//images.ctfassets.net/p39nycxzit31/2NeXSSCyiXaBh82qjHqZJe/f89b1cf385a0c9e7847735fb04cca688/Product_Icons__1_.png",
+            "url": "//images.ctfassets.net/p39nycxzit31/2NeXSSCyiXaBh82qjHqZJe/fe549ed5ffe5b15d73145a8fea36115b/Product_SuperApp__Inverted_true__Size_Large.png",
             "details": {
-              "size": 4272,
+              "size": 4304,
               "image": {
                 "width": 192,
                 "height": 192
               }
             },
-            "fileName": "Product Icons (1).png",
+            "fileName": "Product=SuperApp, Inverted=true, Size=Large.png",
             "contentType": "image/png"
           }
         }
@@ -21484,7 +21484,7 @@
         "id": "dB20mJtrXcJTs59Kq7g1Z",
         "type": "Asset",
         "createdAt": "2022-02-10T18:00:49.175Z",
-        "updatedAt": "2022-02-10T18:01:17.211Z",
+        "updatedAt": "2022-02-28T20:37:22.960Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -21492,8 +21492,8 @@
             "linkType": "Environment"
           }
         },
-        "publishedVersion": 5,
-        "publishedAt": "2022-02-10T18:01:17.211Z",
+        "publishedVersion": 13,
+        "publishedAt": "2022-02-28T20:37:22.960Z",
         "firstPublishedAt": "2022-02-10T18:01:17.211Z",
         "createdBy": {
           "sys": {
@@ -21509,8 +21509,8 @@
             "id": "4SDtqAl8Y6iEC5454bbsbU"
           }
         },
-        "publishedCounter": 1,
-        "version": 6,
+        "publishedCounter": 3,
+        "version": 14,
         "publishedBy": {
           "sys": {
             "type": "Link",
@@ -21528,15 +21528,15 @@
         },
         "file": {
           "en-US": {
-            "url": "//images.ctfassets.net/p39nycxzit31/dB20mJtrXcJTs59Kq7g1Z/64977e464b12ef0330b55b4d3a2a5f11/Product_Icons.png",
+            "url": "//images.ctfassets.net/p39nycxzit31/dB20mJtrXcJTs59Kq7g1Z/d32303dd8cd91eb213bb1fbb13dc046c/Product_HyperMarket__Inverted_true__Size_Large.png",
             "details": {
-              "size": 3068,
+              "size": 4642,
               "image": {
-                "width": 128,
-                "height": 128
+                "width": 192,
+                "height": 192
               }
             },
-            "fileName": "Product Icons.png",
+            "fileName": "Product=HyperMarket, Inverted=true, Size=Large.png",
             "contentType": "image/png"
           }
         }
@@ -21557,7 +21557,7 @@
         "id": "oItNIXulMbf4K1ERM31KO",
         "type": "Asset",
         "createdAt": "2022-02-10T18:02:00.660Z",
-        "updatedAt": "2022-02-10T18:02:19.176Z",
+        "updatedAt": "2022-02-28T20:36:15.307Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -21565,8 +21565,8 @@
             "linkType": "Environment"
           }
         },
-        "publishedVersion": 4,
-        "publishedAt": "2022-02-10T18:02:19.176Z",
+        "publishedVersion": 12,
+        "publishedAt": "2022-02-28T20:36:15.307Z",
         "firstPublishedAt": "2022-02-10T18:02:19.176Z",
         "createdBy": {
           "sys": {
@@ -21582,8 +21582,8 @@
             "id": "4SDtqAl8Y6iEC5454bbsbU"
           }
         },
-        "publishedCounter": 1,
-        "version": 5,
+        "publishedCounter": 3,
+        "version": 13,
         "publishedBy": {
           "sys": {
             "type": "Link",
@@ -21601,15 +21601,15 @@
         },
         "file": {
           "en-US": {
-            "url": "//images.ctfassets.net/p39nycxzit31/oItNIXulMbf4K1ERM31KO/17c795bba6b1e299062fc305b4173406/Product_Icons__2_.png",
+            "url": "//images.ctfassets.net/p39nycxzit31/oItNIXulMbf4K1ERM31KO/47ac2c33915470399d1f5790d91a8a75/Product_AcmeTrack__Inverted_true__Size_Large.png",
             "details": {
-              "size": 1715,
+              "size": 2550,
               "image": {
-                "width": 128,
-                "height": 128
+                "width": 192,
+                "height": 192
               }
             },
-            "fileName": "Product Icons (2).png",
+            "fileName": "Product=AcmeTrack, Inverted=true, Size=Large.png",
             "contentType": "image/png"
           }
         }
@@ -21663,7 +21663,84 @@
       }
     }
   ],
-  "webhooks": [],
+  "webhooks": [
+    {
+      "name": "Gatsby Build Webhook",
+      "url": "https://webhook.gatsbyjs.com/hooks/data_source/publish/e9f6b75f-167c-464b-bd91-0bbd4ffd73f3",
+      "httpBasicUsername": null,
+      "topics": ["*.*"],
+      "filters": null,
+      "transformation": null,
+      "active": true,
+      "sys": {
+        "type": "WebhookDefinition",
+        "id": "3LJv0uZaBXf2n3jugKrC7c",
+        "version": 0,
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "p39nycxzit31"
+          }
+        },
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "4SDtqAl8Y6iEC5454bbsbU"
+          }
+        },
+        "createdAt": "2022-02-28T16:36:20Z",
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "4SDtqAl8Y6iEC5454bbsbU"
+          }
+        },
+        "updatedAt": "2022-02-28T16:36:20Z"
+      },
+      "headers": []
+    },
+    {
+      "name": "Gatsby Preview Webhook",
+      "url": "https://webhook.gatsbyjs.com/hooks/data_source/e9f6b75f-167c-464b-bd91-0bbd4ffd73f3",
+      "httpBasicUsername": null,
+      "topics": ["*.*"],
+      "filters": null,
+      "transformation": null,
+      "active": true,
+      "sys": {
+        "type": "WebhookDefinition",
+        "id": "50tSexaKL2JZtFpmbRJapI",
+        "version": 0,
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "p39nycxzit31"
+          }
+        },
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "4SDtqAl8Y6iEC5454bbsbU"
+          }
+        },
+        "createdAt": "2022-02-28T16:37:29Z",
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "4SDtqAl8Y6iEC5454bbsbU"
+          }
+        },
+        "updatedAt": "2022-02-28T16:37:29Z"
+      },
+      "headers": []
+    }
+  ],
   "roles": [
     {
       "name": "Author",
