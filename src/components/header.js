@@ -18,7 +18,7 @@ import {
   desktopHeaderNavWrapper,
   mobileHeaderNavWrapper,
   mobileNavSVGColorWrapper,
-} from "./header.css.ts"
+} from "./header.css"
 import NavItemGroup from "./nav-item-group"
 import BrandLogo from "./brand-logo"
 

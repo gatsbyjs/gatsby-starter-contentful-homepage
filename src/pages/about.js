@@ -2,20 +2,17 @@ import * as React from "react"
 import { graphql } from "gatsby"
 import Layout from "../components/layout"
 import * as sections from "../components/sections"
-
-const Fallback = (props) => {
-  console.warn(`No component found for: ${props.blocktype}`)
-  return false
-}
+import Fallback from "../components/fallback"
 
 export default function About(props) {
   const { aboutPage } = props.data
 
   return (
     <Layout {...aboutPage}>
-      {aboutPage.blocks.map((block, i) => {
-        const Component = sections[block.blocktype] || Fallback
-        return <Component key={block.id} index={i} {...block} />
+      {aboutPage.blocks.map((block) => {
+        const { id, blocktype, ...componentProps } = block
+        const Component = sections[blocktype] || Fallback
+        return <Component key={id} {...componentProps} />
       })}
     </Layout>
   )

@@ -68,7 +68,7 @@ const getSocialName = ({ service }) => {
   return socialMedia[service]?.name
 }
 
-export default function Footer(props) {
+export default function Footer() {
   const data = useStaticQuery(graphql`
     query {
       layout {

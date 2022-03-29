@@ -8,6 +8,9 @@ Create a homepage using Gatsby and Contentful. This starter demonstrates how to 
 
 [View the Demo](https://gatsbycontentfulhomepage.gatsbyjs.io/)
 
+**Note:**
+This version of the Contentful homepage starter is written in JavaScript. If you want to use Contentful but TypeScript is more your style, there is also a TypeScript version maintained on [GitHub](https://github.com/gatsbyjs/gatsby-starter-contentful-homepage-ts).
+
 ## Quick start
 
 You will need a new or existing [Contentful space][] to use this starter and will be asked for your [Space ID][], [Content Management API Key][] (also referred to as a Personal Access Token) and [Content Delivery API Key][] during installation.
@@ -21,7 +24,7 @@ You will need a new or existing [Contentful space][] to use this starter and wil
 
    Use the Gatsby CLI to get started locally:
 
-   ```sh name
+   ```sh repo
    npx gatsby new my-homepage https://github.com/gatsbyjs/gatsby-starter-contentful-homepage
    ```
 
@@ -208,7 +211,7 @@ For this example, we'll create a new "Banner" component.
 
 1. Next, create the Banner component:
 
-   ```jsx
+   ```jsx fileExt
    // src/components/banner.js
    import * as React from "react"
    import { graphql } from "gatsby"
@@ -236,7 +239,7 @@ For this example, we'll create a new "Banner" component.
 
 1. Export the component from `src/components/sections.js`
 
-   ```js
+   ```js fileExt
    // src/components/sections.js
    export { default as HomepageHero } from "./hero"
    export { default as HomepageFeature } from "./feature"
@@ -254,7 +257,7 @@ For this example, we'll create a new "Banner" component.
 
 1. Add the GraphQL query fragment to the query in `src/pages/index.js`
 
-   ```js
+   ```js fileExt
    // in src/pages/index.js
    export const query = graphql`
      {
