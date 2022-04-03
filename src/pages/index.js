@@ -31,14 +31,18 @@ export const query = graphql`
       blocks: content {
         id
         blocktype
+        ...AboutHeroContent
+        ...AboutStatListContent
+        ...HomepageProductListContent
+        ...AboutLeadershipContent
+        ...HomepageBenefitListContent
+        ...AboutLogoListContent
+        ...HomepageCtaContent
         ...HomepageHeroContent
         ...HomepageFeatureListContent
-        ...HomepageCtaContent
         ...HomepageLogoListContent
         ...HomepageTestimonialListContent
-        ...HomepageBenefitListContent
         ...HomepageStatListContent
-        ...HomepageProductListContent
       }
     }
   }

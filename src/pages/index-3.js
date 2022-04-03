@@ -38,6 +38,11 @@ export const query = graphql`
         ...HomepageBenefitListContent
         ...AboutLogoListContent
         ...HomepageCtaContent
+        ...HomepageHeroContent
+        ...HomepageFeatureListContent
+        ...HomepageLogoListContent
+        ...HomepageTestimonialListContent
+        ...HomepageStatListContent
       }
     }
   }

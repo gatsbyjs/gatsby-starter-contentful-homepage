@@ -8,7 +8,7 @@ export default function FeatureList(props) {
     <Container width="fullbleed">
       <Box background="muted" radius="large">
         <Box center paddingY={5}>
-          <Heading>
+          <Heading id={props.id}>
             {props.kicker && <Kicker>{props.kicker}</Kicker>}
             {props.heading}
           </Heading>

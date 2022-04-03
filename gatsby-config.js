@@ -7,9 +7,9 @@ require("dotenv").config({
 module.exports = {
   siteMetadata: {
     siteUrl: "https://gatsbycontentfulhomepage.gatsbyjs.io/",
-    title: "Gatsby Contentful Homepage Starter",
+    title: "Paralleelium  BFT| Welcome",
     author: `Gatsby`,
-    description: "A Gatsby Starter for building homepages with Contentful",
+    description: "Parallelium is a NFT collection brought to you by Makelab",
   },
   plugins: [
     {
@@ -29,7 +29,7 @@ module.exports = {
     {
       resolve: "gatsby-plugin-manifest",
       options: {
-        name: "Gatsby Starter Contentful Homepage",
+        name: "Paralleelium NFT | Welcome",
         short_name: "Gatsby",
         start_url: "/",
         // These can be imported once ESM support lands
