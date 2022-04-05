@@ -1,4 +1,5 @@
 const { documentToHtmlString } = require("@contentful/rich-text-html-renderer")
+const { getGatsbyImageResolver } = require("gatsby-plugin-image/graphql-utils")
 
 exports.createSchemaCustomization = async ({ actions }) => {
   actions.createFieldExtension({
@@ -8,6 +9,16 @@ exports.createSchemaCustomization = async ({ actions }) => {
         resolve(source) {
           return source.internal.type.replace("Contentful", "")
         },
+      }
+    },
+  })
+
+  actions.createFieldExtension({
+    name: "imagePassthroughArgs",
+    extend(options) {
+      const { args } = getGatsbyImageResolver()
+      return {
+        args,
       }
     },
   })
@@ -101,7 +112,7 @@ exports.createSchemaCustomization = async ({ actions }) => {
     interface HomepageImage implements Node {
       id: ID!
       alt: String
-      gatsbyImageData: JSON
+      gatsbyImageData: JSON @imagePassthroughArgs
       url: String
     }
 
