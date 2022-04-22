@@ -35,7 +35,7 @@ const questions = [
   },
   {
     name: "managementToken",
-    when: !argv.managementToken,
+    when: !argv.managementToken && !process.env.CONTENTFUL_MANAGEMENT_TOKEN,
     message: "Your Content Management API access token",
   },
   {
@@ -62,12 +62,14 @@ inquirer
         CONTENTFUL_SPACE_ID,
         CONTENTFUL_ACCESS_TOKEN,
         CONTENTFUL_DELIVERY_ACCESS_TOKEN,
+        CONTENTFUL_MANAGEMENT_TOKEN,
       } = process.env
 
       // env vars are given precedence followed by args provided to the setup
       // followed by input given to prompts displayed by the setup script
       spaceId = CONTENTFUL_SPACE_ID || argv.spaceId || spaceId
-      managementToken = argv.managementToken || managementToken
+      managementToken =
+        CONTENTFUL_MANAGEMENT_TOKEN || argv.managementToken || managementToken
       // Some scripts that set up this repo use `deliveryToken` and
       // `CONTENTFUL_DELIVERY_TOKEN`, instead of `accessToken` and
       // `CONTENTFUL_ACCESS_TOKEN`. Until all scripts are updated to
