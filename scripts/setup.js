@@ -34,11 +34,6 @@ const questions = [
       "Space ID must be 12 lowercase characters",
   },
   {
-    name: "managementToken",
-    when: !argv.managementToken && !process.env.CONTENTFUL_MANAGEMENT_TOKEN,
-    message: "Your Content Management API access token",
-  },
-  {
     name: "accessToken",
     when:
       !argv.accessToken &&
@@ -46,6 +41,11 @@ const questions = [
       !argv.deliveryToken &&
       !process.env.CONTENTFUL_DELIVERY_ACCESS_TOKEN,
     message: "Your Content Delivery API access token",
+  },
+  {
+    name: "managementToken",
+    when: !argv.managementToken && !process.env.CONTENTFUL_MANAGEMENT_TOKEN,
+    message: "Your Content Management API access token",
   },
 ]
 
