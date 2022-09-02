@@ -7,6 +7,7 @@ exports.createSchemaCustomization = async ({ actions }) => {
     extend(options) {
       return {
         resolve(source) {
+          
           return source.internal.type.replace("Contentful", "")
         },
       }
@@ -112,7 +113,7 @@ exports.createSchemaCustomization = async ({ actions }) => {
     interface HomepageImage implements Node {
       id: ID!
       alt: String
-      gatsbyImageData: JSON @imagePassthroughArgs
+      gatsbyImageData: GatsbyImageData @imagePassthroughArgs
       url: String
     }
 
