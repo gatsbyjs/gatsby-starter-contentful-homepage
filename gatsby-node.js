@@ -112,7 +112,7 @@ exports.createSchemaCustomization = async ({ actions }) => {
     interface HomepageImage implements Node {
       id: ID!
       alt: String
-      gatsbyImageData: JSON @imagePassthroughArgs
+      gatsbyImageData: GatsbyImageData @imagePassthroughArgs
       url: String
     }
 
@@ -371,7 +371,7 @@ exports.createSchemaCustomization = async ({ actions }) => {
     type ContentfulAsset implements Node & HomepageImage {
       id: ID!
       alt: String @proxy(from: "title")
-      gatsbyImageData: JSON
+      gatsbyImageData: GatsbyImageData
       url: String @imageUrl
       file: JSON
       title: String
