@@ -1,0 +1,16 @@
+.button {
+    padding: 14px 21px;
+    border-radius: 16px;
+    cursor: pointer;
+}
+.button.matrix {
+    background-color: var(--green-400);
+    transition: .4s;
+}
+.button.matrix:hover {
+    filter: brightness(0.8);
+}
+.button.transparent {
+    background-color: transparent;
+    color: var(--white-100);
+}
