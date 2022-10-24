@@ -1,9 +1,0 @@
-.header-wrap-boxes {
-    margin-top: 40px;
-}
-@media screen and (max-width: 700px) {
-    .header-wrap-boxes {
-        width: 80%;
-        justify-content: center;
-    }
-}

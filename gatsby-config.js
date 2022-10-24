@@ -6,12 +6,55 @@ require("dotenv").config({
 
 module.exports = {
   siteMetadata: {
-    siteUrl: "https://loart.dev",
-    title: "LoArt & Dev | Portfolio",
-    author: `Simón López Jaramillo | LoArt & Dev`,
-    description: "Simon's portfolio",
+    title: `LoArt & Dev Portfolio`,
+    author: {
+      name: `Simón López`,
+      summary: `Web Developer & Designer, 3D Artist, Game Developer.`,
+    },
+    description: `Personal portfolio of Simón López.`,
+    siteUrl: 'https://loart.dev',
+    social: {
+      twitter: `LoArtDev`,
+      github: `SimonLopezJara`,
+      instagram: `loart_dev`,
+      artstation: `loartdev`,
+      facebook: `loartdev `,
+      itch: `loartdev`,
+    },
+
   },
   plugins: [
+    {
+      resolve: `gatsby-plugin-react-intl`,
+      options: {
+        // language JSON resource path
+        path: `${__dirname}/src/intl`,
+        // supported language
+        languages: [`es`, `en`],
+        // language file path
+        defaultLanguage: `es`,
+        // option to redirect to `/es` when connecting `/`
+        redirect: true,
+        redirectDefaultLanguageToRoot: true,
+        fallbackLanguage: `en`,
+      },
+    },
+    {
+      resolve: 'gatsby-plugin-robots-txt',
+      options: {
+        host: 'https://loart.dev',
+        sitemap: 'https://loart.dev/sitemap.xml',
+      }
+    },
+    {
+      resolve: 'gatsby-plugin-use-dark-mode',
+      options: {
+        classNameDark: 'dark',
+        classNameLight: 'light',
+        storageKey: 'darkMode',
+        minify: true,
+      },
+    },
     {
       resolve: "gatsby-source-contentful",
       options: {
