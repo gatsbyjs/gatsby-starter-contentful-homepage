@@ -97,7 +97,7 @@ export default function NavItemGroup({ name, navItems }) {
                     {navItem.icon && (
                       <GatsbyImage
                         alt={navItem.icon.alt}
-                        image={getImage(navItem.icon.gatsbyImageData)}
+                        image={navItem.icon.gatsbyImageData}
                         className={styles.navIcon}
                       />
                     )}

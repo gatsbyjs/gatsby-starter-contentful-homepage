@@ -22,7 +22,7 @@ export default function Hero(props) {
             {props.image && (
               <GatsbyImage
                 alt={props.image.alt}
-                image={getImage(props.image.gatsbyImageData)}
+                image={props.image.gatsbyImageData}
               />
             )}
           </Box>

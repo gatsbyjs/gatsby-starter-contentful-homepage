@@ -27,7 +27,7 @@ export default function HomepageCta(props) {
           <Nudge left={5} right={5} bottom={5}>
             <GatsbyImage
               alt={props.image.alt}
-              image={getImage(props.image.gatsbyImageData)}
+              image={props.image.gatsbyImageData}
             />
           </Nudge>
         )}

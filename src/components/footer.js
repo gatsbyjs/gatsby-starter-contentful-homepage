@@ -144,10 +144,11 @@ export default function Footer() {
                 </li>
               ))}
           </FlexList>
-          <Text variant="small">{copyright}</Text>
+          <Text variant="small">something else {copyright}</Text>
         </Flex>
       </Container>
       <Space size={3} />
+      <pre>{JSON.stringify(data, null, 2)}</pre>
     </Box>
   )
 }

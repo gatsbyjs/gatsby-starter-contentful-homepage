@@ -19,7 +19,7 @@ export default function AboutHero(props) {
         {props.image && (
           <GatsbyImage
             alt={props.image.alt}
-            image={getImage(props.image.gatsbyImageData)}
+            image={props.image.gatsbyImageData}
             className={styles.aboutHeroImage}
           />
         )}
