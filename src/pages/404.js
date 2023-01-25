@@ -31,5 +31,5 @@ export default function NotFound() {
   )
 }
 export const Head = () => {
-  return <SEOHead title="404: Page not found" />
+  return <SEOHead title="404: Page not found." />
 }
