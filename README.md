@@ -15,7 +15,10 @@ This version of the Contentful homepage starter is written in JavaScript. If you
 
 You will need a new or existing [Contentful space][] to use this starter and will be asked for your [Space ID][], [Content Management API Key][] (also referred to as a Personal Access Token) and [Content Delivery API Key][] during installation.
 
-**Note:** Contentful recently adjusted their limitations for free spaces and it is affecting this starter. Free spaces are only allowed to have 25 content types, and this starter currently utilizes 27. We'll be adjusting the associated content in the starter in the next week to work within these new limitations so you all can still experiment with the Contentful and Gatsby stack. Thank you for you understanding.
+**Note:**
+Since this project was first released, Contentful has adjusted the amount of content types allowed in a free space. As a result, the default data set used for this starter has the About page content types and content omitted.
+
+If you already have a paid Contentful space, you can utilize the data set that includes the About page content by renaming `scripts/data-with-about-page.json` to `/scripts/data.json` before running the `yarn gatsby-provision` command.
 
 [contentful space]: https://www.contentful.com/help/contentful-101/#step-2-create-a-space
 [space id]: https://www.contentful.com/help/find-space-id/
